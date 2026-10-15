@@ -1,0 +1,4 @@
+# Assets sao binarios: o Git nunca deve converter fim de linha nem tentar diff
+* -text
+*.md  text eol=lf
+*.ps1 text eol=crlf
