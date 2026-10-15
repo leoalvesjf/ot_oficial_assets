@@ -20,16 +20,17 @@ oficiais (`dudantas/tibia-client`), sem as personalizacoes.
 
 1. **Pegar os assets mais novos** (antes de testar ou publicar):
    ```powershell
+   git checkout development
    git pull
    .\sync-assets.ps1 -Cliente C:\caminho\do\cliente -Para cliente
    ```
 2. **Editar sprites/efeitos** no cliente, com a ferramenta de sempre, e testar no jogo.
-3. **Subir a mudanca** para este repositorio:
+3. **Subir a mudanca** na branch `development` (o Leo leva para a `main`):
    ```powershell
    .\sync-assets.ps1 -Cliente C:\caminho\do\cliente -Para repo
    git add -A
    git commit -m "Efeito X: nova sprite"
-   git push
+   git push origin development
    ```
    O script se recusa a copiar se o `catalog-content.json` citar um arquivo que nao existe,
    e avisa se sobrar `appearances-*.dat` sem uso. Apague as sobras antes do commit:
