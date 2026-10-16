@@ -45,3 +45,16 @@ Nao use `git add -f` nessas pastas la; mudancas de assets entram so aqui.
   `appearances-*.dat` que o `catalog-content.json` nao usa (`180719da`, `23f3d51f`,
   `5e3ea77b`, `7790d802`, `c02f0b52`, `f5247604`). Confirmar com o valcio se sao versoes
   antigas; se algum for necessario, ele continua no historico daquele PR.
+
+## Download do mapa com marcadores
+
+O pacote completo com marcadores fica em `data/things/1525/map-download/`:
+`world.otmm`, `markers.json` e `manifest.json` com SHA256 e tamanhos.
+O caminho final no cliente e o mesmo. A rotina `game_minimap.MinimapDownload`
+no repositorio de codigo prepara o primeiro uso sem substituir mapa pessoal existente.
+O launcher tambem pode distribuir esta subpasta no fluxo normal de assets.
+
+Enquanto o repositorio for privado, o teste usa um auxiliar local autenticado pelo Git;
+nenhum token deve entrar no pacote ou no cliente distribuido. Arquivos ainda nao
+commitados so podem ser testados pelo clone local, nao baixados do GitHub.
+Instrucoes do auxiliar: `docs/minimap-download.md` no repositorio do cliente.
