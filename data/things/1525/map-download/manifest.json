@@ -1,0 +1,22 @@
+{
+    "version":  "tibiamaps-20261015-localtest1",
+    "markers":  6398,
+    "files":  {
+                  "world.otmm":  {
+                                     "bytes":  4967534,
+                                     "sha256":  "4730c1e4312e03e020ae683a3b2018cb1b7cdd116596b99a9a9883e2d562d561"
+                                 },
+                  "markers.json":  {
+                                       "bytes":  889262,
+                                       "sha256":  "31a1ad121e335e8a52925fcdafab6e80dea2805a5ceac8648d898cfd8bf3e1ab"
+                                   }
+              },
+    "format":  "otclient-minimap-otmm-v1",
+    "clientVersion":  1525,
+    "source":  "https://tibiamaps.io/downloads/minimap-with-markers",
+    "sourceZipSha256":  "90BB8E8AED0EC6970334AA96E5908FF86D5CB56B51F4048881AC38E38A37D942",
+    "floors":  [
+                   0,
+                   15
+               ]
+}

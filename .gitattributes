@@ -2,3 +2,6 @@
 * -text
 *.md  text eol=lf
 *.ps1 text eol=crlf
+
+# Minimap JSON bytes are hash-pinned; preserve CRLF without whitespace warnings.
+data/things/1525/map-download/*.json whitespace=cr-at-eol
