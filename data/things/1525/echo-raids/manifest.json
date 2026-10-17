@@ -1,0 +1,37 @@
+{
+  "coordinationId": "XCOMP-20261017-ECHO-RAIDS",
+  "appearanceChanges": false,
+  "runtimeRoot": "data/things/1525/echo-raids",
+  "schema": 1,
+  "files": [
+    {
+      "path": "shaders/warden.frag",
+      "sha256": "366d5b94ac9e398759a199775d6e26490266c8572002d5f9d55650603c6b2fd6",
+      "bytes": 1562
+    },
+    {
+      "path": "shaders/empowered.frag",
+      "sha256": "43f0db02a8c8ab59eaac5f424293ba0d8a143a63c04f44944936510bca99605b",
+      "bytes": 1559
+    },
+    {
+      "path": "shaders/influenced.frag",
+      "sha256": "5d75f62db6928a97a7ca75d062979b0a3966e08dc4ae01ed5469d09d5b506805",
+      "bytes": 1625
+    },
+    {
+      "path": "visuals.json",
+      "sha256": "014d6e94453c0189787bf4eb97837f0272bae2addb2e03e1377dc7fcc0a89f53",
+      "bytes": 2087
+    }
+  ],
+  "implementation": "Original shaders; colors researched from Astra PR159 pinned 1dc0b3683c083349a6090221eecaf9771757b238; no copied fork shader source",
+  "creatureOrEffectIdsAdded": [],
+  "existingForgeIcon": {
+    "icon": 4,
+    "sha256": "8a539e179b196336a3e6dd072f9d01b932ec94ece544d505321f1475a7ac8a4f",
+    "runtimePath": "data/images/game/creatureicons/modifications.png",
+    "count": "server-owned",
+    "category": 1
+  }
+}
