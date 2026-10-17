@@ -5,3 +5,9 @@
 
 # Minimap JSON bytes are hash-pinned; preserve CRLF without whitespace warnings.
 data/things/1525/map-download/*.json whitespace=cr-at-eol
+
+data/things/1525/catalog-content.json whitespace=cr-at-eol
+
+# Echo manifests/shaders retain their hash-pinned source bytes.
+data/things/1525/echo-raids-assets-manifest.json whitespace=cr-at-eol
+data/things/1525/echo-raids/** whitespace=cr-at-eol
