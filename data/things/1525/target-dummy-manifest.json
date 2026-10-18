@@ -1,0 +1,25 @@
+{
+  "task": "AST-20261017-OUTFIT-REPLACEMENTS",
+  "sourceOutfit": 258,
+  "targetObject": 15710,
+  "originalBackupObject": 54267,
+  "frames": 1,
+  "identicalSourceDirections": 4,
+  "baseAppearance": "appearances-a42cab4e26b2c44e59eb71209b9992ddece0ee7743323478bd6d4ae9aaa6d981.dat",
+  "resultAppearance": "appearances-41fd5723fa55b61ddcd39868700411a8f79cbd12636fa7f9679b8c46647a13a3.dat",
+  "baseSha256": "a42cab4e26b2c44e59eb71209b9992ddece0ee7743323478bd6d4ae9aaa6d981",
+  "resultSha256": "41fd5723fa55b61ddcd39868700411a8f79cbd12636fa7f9679b8c46647a13a3",
+  "catalogSha256": "9922f06c2d4392f465d593da87f52c280b407c1b8cdbd429095a02118cab063e",
+  "sheet": {
+    "type": "sprite",
+    "file": "sprites-475bccb8418bf247b6788e06eab9089d0fe6a3f3d843e81b404ccd8826edc505.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 292984,
+    "lastspriteid": 293019,
+    "area": 0
+  },
+  "propertiesPreservedExceptVisualShift": true,
+  "allOtherRecordsByteIdentical": true,
+  "pixelRoundtrip": true,
+  "serverChangesRequired": false
+}

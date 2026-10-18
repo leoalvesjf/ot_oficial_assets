@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "coordinationId": "XCOMP-20261017-ECHO-RAIDS",
+  "states": {
+    "normal": {
+      "outfit": "original",
+      "nameShader": null,
+      "indicator": "none; server buffs only"
+    },
+    "influenced": {
+      "outfit": "original",
+      "nameShader": "Echo Raids - Influenced",
+      "indicator": "native Forge dust icon",
+      "category": 1,
+      "icon": 4,
+      "count": "server owned, 1..5; never inferred",
+      "file": "shaders/influenced.frag",
+      "color": "blue",
+      "origin": "Local adaptation requested for name identification; upstream uses native Forge indicators",
+      "animation": "2-second pulse and 1.5-second highlight anchored to font-atlas coordinates; independent of horizontal movement"
+    },
+    "warden": {
+      "outfit": "original",
+      "nameShader": "Echo Raids - Warden",
+      "file": "shaders/warden.frag",
+      "color": "red",
+      "animation": "2-second pulse and 1.5-second highlight anchored to font-atlas coordinates; independent of horizontal movement"
+    },
+    "empowered": {
+      "outfit": "original",
+      "nameShader": "Echo Raids - Empowered",
+      "file": "shaders/empowered.frag",
+      "color": "pink-purple",
+      "forgeIcons": "preserved independently",
+      "animation": "2-second pulse and 1.5-second highlight anchored to font-atlas coordinates; independent of horizontal movement"
+    }
+  },
+  "references": [
+    "https://www.tibia.com/news/?id=8834&subtopic=newsarchive",
+    "https://github.com/Mateuzkl/AstraClient/pull/159",
+    "https://github.com/Mateuzkl/AstraClient/blob/1dc0b3683c083349a6090221eecaf9771757b238/data/shaders/text_echo_warden_fragment.frag",
+    "https://github.com/Mateuzkl/AstraClient/blob/1dc0b3683c083349a6090221eecaf9771757b238/data/shaders/text_echo_empowered_fragment.frag"
+  ],
+  "implementation": "Three original animated name shaders; normal Echo has no auxiliary label or shader. Native Forge indicators and original outfits preserved. Influenced blue is a local adaptation. Movement fix awaits gameplay retest."
+}

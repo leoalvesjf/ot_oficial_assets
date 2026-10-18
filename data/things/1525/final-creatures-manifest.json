@@ -1,0 +1,468 @@
+{
+  "schema": 1,
+  "task": "AST-20261017-FINAL-ASSETS",
+  "baseAppearance": "appearances-56cdc217564ac572b2c2544d1927c8846889b5867c238b9ec844ee0599bb4d05.dat",
+  "baseAppearanceSha256": "56cdc217564ac572b2c2544d1927c8846889b5867c238b9ec844ee0599bb4d05",
+  "baseCatalogSha256": "602feeddb232f91dbbf1755e4f3b670f4440d89077cb756b5055e3283f198319",
+  "resultAppearance": "appearances-30f00c5c1a3f20f44cbddc0b2dcb036f1b9a1fe7178f059f05e22a7e611c4f3f.dat",
+  "resultAppearanceSha256": "30f00c5c1a3f20f44cbddc0b2dcb036f1b9a1fe7178f059f05e22a7e611c4f3f",
+  "resultCatalogSha256": "7a40b8b692d9a3d7813275c3f558db5a8b59ae7d62e9fa9e4b31f551bf5d5166",
+  "sourceHashes": {
+    "Tibia.dat": "b3c0914ec901a9e1028fbeee5732ab0d4d435eef34ea21f0286ccca411e83c68",
+    "Tibia.otfi": "7743548835944bc799cb871a4e5def84f7af76815031871b9ce74b5ec0e8add3",
+    "Tibia.spr": "f9666360154ebd059c609234b6a6a15a4bc0315528982e1203986c7a2a89069b"
+  },
+  "replacements": [
+    {
+      "source": 34,
+      "target": 34,
+      "originalBackupId": 1986,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 3,
+          "height": 3,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 3,
+          "height": 3,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 39,
+      "target": 39,
+      "originalBackupId": 1987,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 3,
+          "height": 3,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 3,
+          "height": 3,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 38,
+      "target": 38,
+      "originalBackupId": 1988,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    }
+  ],
+  "sheets": [
+    {
+      "type": "sprite",
+      "file": "sprites-b2c4afc134a27199d37ce53250f70506c44f1d3b45180938e70e9562bdc3bd86.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 293792,
+      "lastspriteid": 293827,
+      "area": 0,
+      "used": 36,
+      "sha256": "d28dd4255495a12150295650bcad357d42d8cd8860d546b9739316244b1faace",
+      "uncompressedSha256": "b2c4afc134a27199d37ce53250f70506c44f1d3b45180938e70e9562bdc3bd86"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-0568d3a5a7764e9b2f046fcd64978861a1f0b0c7960f48b4d600ce6b4aa8823a.bmp.lzma",
+      "spritetype": 14,
+      "firstspriteid": 293828,
+      "lastspriteid": 293843,
+      "area": 0,
+      "used": 16,
+      "sha256": "59c43ae544d0b9a41ce0940f52ea2d9f38945a80f42497d677f0b4d135d9c92f",
+      "uncompressedSha256": "0568d3a5a7764e9b2f046fcd64978861a1f0b0c7960f48b4d600ce6b4aa8823a"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-bda1a8a9e28ab2f274862ceec5a35372b3050fcd57ed801ad5ffe480127f69ec.bmp.lzma",
+      "spritetype": 14,
+      "firstspriteid": 293844,
+      "lastspriteid": 293859,
+      "area": 0,
+      "used": 16,
+      "sha256": "9a6edd636d37f328eb2de12c505a37698cb5cf58307fb9ca66085105be4cccc4",
+      "uncompressedSha256": "bda1a8a9e28ab2f274862ceec5a35372b3050fcd57ed801ad5ffe480127f69ec"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-8ca2a1b6e3ed306fa88b23f00604261699176cd0202892793af53bd3fc704d53.bmp.lzma",
+      "spritetype": 14,
+      "firstspriteid": 293860,
+      "lastspriteid": 293875,
+      "area": 0,
+      "used": 16,
+      "sha256": "69282c2e84518499081e2884ad6fa2ad4f07bd8f8768f3be298edac747774f93",
+      "uncompressedSha256": "8ca2a1b6e3ed306fa88b23f00604261699176cd0202892793af53bd3fc704d53"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-9d1b5ef23396bdb107ddb713dfa399ea4abf2eaec538057b4995805d6f0d7c58.bmp.lzma",
+      "spritetype": 14,
+      "firstspriteid": 293876,
+      "lastspriteid": 293891,
+      "area": 0,
+      "used": 16,
+      "sha256": "0d871682cf71dd307b784472c5df186c14c0c370ebf3aed0ffc4b7fda6efc79c",
+      "uncompressedSha256": "9d1b5ef23396bdb107ddb713dfa399ea4abf2eaec538057b4995805d6f0d7c58"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-3f2c532d814070c7dcbfd2e2c9e91a10388bf05c8e916c465e562176cfb9eaad.bmp.lzma",
+      "spritetype": 14,
+      "firstspriteid": 293892,
+      "lastspriteid": 293907,
+      "area": 0,
+      "used": 16,
+      "sha256": "967b9033ddf6a1031f307fd3bfbdbf45c66a11df49dbf0f469137419178b10e4",
+      "uncompressedSha256": "3f2c532d814070c7dcbfd2e2c9e91a10388bf05c8e916c465e562176cfb9eaad"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-e4fe6096e5b5e3953148624cda501b6c91036cdfac99617c5c5caaa75c7ce1ab.bmp.lzma",
+      "spritetype": 14,
+      "firstspriteid": 293908,
+      "lastspriteid": 293923,
+      "area": 0,
+      "used": 16,
+      "sha256": "f138a9951f53e09e74bcc5504d1472dca17a3c9065d34b31e79724c7ca7d6b75",
+      "uncompressedSha256": "e4fe6096e5b5e3953148624cda501b6c91036cdfac99617c5c5caaa75c7ce1ab"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-06d3d9c7035dba4b783d7d3b21f45665978534cd0502adc8f2ea90d461b5b745.bmp.lzma",
+      "spritetype": 14,
+      "firstspriteid": 293924,
+      "lastspriteid": 293939,
+      "area": 0,
+      "used": 16,
+      "sha256": "5e729ca8a6601d72d265633d095517cf46403ea74e29f96ecb796028e0376ac0",
+      "uncompressedSha256": "06d3d9c7035dba4b783d7d3b21f45665978534cd0502adc8f2ea90d461b5b745"
+    }
+  ],
+  "backupRange": [
+    1986,
+    1988
+  ],
+  "uniqueSpritePlanes": 148,
+  "serverChangesRequired": false,
+  "sharedLookTypeImpact": "All creatures/NPCs using each replaced target lookType change visually",
+  "staticIdleSources": [],
+  "productionActivation": "assets only, no server mechanics change",
+  "files": [
+    {
+      "path": "appearances-30f00c5c1a3f20f44cbddc0b2dcb036f1b9a1fe7178f059f05e22a7e611c4f3f.dat",
+      "sha256": "30f00c5c1a3f20f44cbddc0b2dcb036f1b9a1fe7178f059f05e22a7e611c4f3f",
+      "bytes": 4893336
+    },
+    {
+      "path": "catalog-content.json",
+      "sha256": "7a40b8b692d9a3d7813275c3f558db5a8b59ae7d62e9fa9e4b31f551bf5d5166",
+      "bytes": 1026155
+    },
+    {
+      "path": "sprites-b2c4afc134a27199d37ce53250f70506c44f1d3b45180938e70e9562bdc3bd86.bmp.lzma",
+      "sha256": "d28dd4255495a12150295650bcad357d42d8cd8860d546b9739316244b1faace",
+      "bytes": 22427
+    },
+    {
+      "path": "sprites-0568d3a5a7764e9b2f046fcd64978861a1f0b0c7960f48b4d600ce6b4aa8823a.bmp.lzma",
+      "sha256": "59c43ae544d0b9a41ce0940f52ea2d9f38945a80f42497d677f0b4d135d9c92f",
+      "bytes": 16397
+    },
+    {
+      "path": "sprites-bda1a8a9e28ab2f274862ceec5a35372b3050fcd57ed801ad5ffe480127f69ec.bmp.lzma",
+      "sha256": "9a6edd636d37f328eb2de12c505a37698cb5cf58307fb9ca66085105be4cccc4",
+      "bytes": 16030
+    },
+    {
+      "path": "sprites-8ca2a1b6e3ed306fa88b23f00604261699176cd0202892793af53bd3fc704d53.bmp.lzma",
+      "sha256": "69282c2e84518499081e2884ad6fa2ad4f07bd8f8768f3be298edac747774f93",
+      "bytes": 9725
+    },
+    {
+      "path": "sprites-9d1b5ef23396bdb107ddb713dfa399ea4abf2eaec538057b4995805d6f0d7c58.bmp.lzma",
+      "sha256": "0d871682cf71dd307b784472c5df186c14c0c370ebf3aed0ffc4b7fda6efc79c",
+      "bytes": 20297
+    },
+    {
+      "path": "sprites-3f2c532d814070c7dcbfd2e2c9e91a10388bf05c8e916c465e562176cfb9eaad.bmp.lzma",
+      "sha256": "967b9033ddf6a1031f307fd3bfbdbf45c66a11df49dbf0f469137419178b10e4",
+      "bytes": 9701
+    },
+    {
+      "path": "sprites-e4fe6096e5b5e3953148624cda501b6c91036cdfac99617c5c5caaa75c7ce1ab.bmp.lzma",
+      "sha256": "f138a9951f53e09e74bcc5504d1472dca17a3c9065d34b31e79724c7ca7d6b75",
+      "bytes": 14767
+    },
+    {
+      "path": "sprites-06d3d9c7035dba4b783d7d3b21f45665978534cd0502adc8f2ea90d461b5b745.bmp.lzma",
+      "sha256": "5e729ca8a6601d72d265633d095517cf46403ea74e29f96ecb796028e0376ac0",
+      "bytes": 13941
+    }
+  ]
+}

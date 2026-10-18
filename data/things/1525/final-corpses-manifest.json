@@ -1,0 +1,524 @@
+{
+  "schema": 1,
+  "task": "AST-20261017-CORPSE-REPLACEMENTS",
+  "baseAppearance": "appearances-30f00c5c1a3f20f44cbddc0b2dcb036f1b9a1fe7178f059f05e22a7e611c4f3f.dat",
+  "baseAppearanceSha256": "30f00c5c1a3f20f44cbddc0b2dcb036f1b9a1fe7178f059f05e22a7e611c4f3f",
+  "baseCatalogSha256": "7a40b8b692d9a3d7813275c3f558db5a8b59ae7d62e9fa9e4b31f551bf5d5166",
+  "resultAppearance": "appearances-59d911664afe8dc9d490ad0e19600069473ffac0cbfa939756690d544ac334b0.dat",
+  "resultAppearanceSha256": "59d911664afe8dc9d490ad0e19600069473ffac0cbfa939756690d544ac334b0",
+  "resultCatalogSha256": "e82cd58b4ac8908eeae6fba39c20d811d96efdbc2736dcfa360c801297799118",
+  "sourceHashes": {
+    "Tibia.dat": "b3c0914ec901a9e1028fbeee5732ab0d4d435eef34ea21f0286ccca411e83c68",
+    "Tibia.otfi": "7743548835944bc799cb871a4e5def84f7af76815031871b9ce74b5ec0e8add3",
+    "Tibia.spr": "f9666360154ebd059c609234b6a6a15a4bc0315528982e1203986c7a2a89069b"
+  },
+  "replacements": [
+    {
+      "source": 4025,
+      "target": 5973,
+      "originalBackupId": 54396,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 3,
+          "height": 2,
+          "exact": 64,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4025,
+      "target": 4025,
+      "originalBackupId": 54397,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 3,
+          "height": 2,
+          "exact": 64,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4026,
+      "target": 4026,
+      "originalBackupId": 54398,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 3,
+          "height": 2,
+          "exact": 64,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4027,
+      "target": 4027,
+      "originalBackupId": 54399,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 3,
+          "height": 2,
+          "exact": 63,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4062,
+      "target": 5984,
+      "originalBackupId": 54400,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 3,
+          "height": 2,
+          "exact": 64,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4062,
+      "target": 4062,
+      "originalBackupId": 54401,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 3,
+          "height": 2,
+          "exact": 64,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4063,
+      "target": 4063,
+      "originalBackupId": 54402,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 3,
+          "height": 2,
+          "exact": 64,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4064,
+      "target": 4064,
+      "originalBackupId": 54403,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 3,
+          "height": 2,
+          "exact": 63,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4038,
+      "target": 5977,
+      "originalBackupId": 54404,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 60,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4038,
+      "target": 4038,
+      "originalBackupId": 54405,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 60,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4039,
+      "target": 4039,
+      "originalBackupId": 54406,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 60,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4040,
+      "target": 4040,
+      "originalBackupId": 54407,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 59,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    }
+  ],
+  "sheets": [
+    {
+      "type": "sprite",
+      "file": "sprites-089c1b791d0782eac06bfb09c830a22ce9f84fa65281ae017214979d4a273a6b.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 293940,
+      "lastspriteid": 293975,
+      "area": 0,
+      "used": 3,
+      "sha256": "bf06dc24a7aa53c0455a52cf8887b75538bc7e7de9771f48f9f4075b9a6b0bbb",
+      "uncompressedSha256": "089c1b791d0782eac06bfb09c830a22ce9f84fa65281ae017214979d4a273a6b"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-c9014c37c81cb18dfb53444a29703c30af9223dd7ffcb1900d3a2b3f1af077e4.bmp.lzma",
+      "spritetype": 14,
+      "firstspriteid": 293976,
+      "lastspriteid": 293991,
+      "area": 0,
+      "used": 6,
+      "sha256": "595138af6d91364955bc1c1993d5d59edc5f774fafc0adb27e56ee92e0fd0df5",
+      "uncompressedSha256": "c9014c37c81cb18dfb53444a29703c30af9223dd7ffcb1900d3a2b3f1af077e4"
+    }
+  ],
+  "backupRange": [
+    54396,
+    54407
+  ],
+  "uniqueSpritePlanes": 9,
+  "serverChangesRequired": false,
+  "sharedLookTypeImpact": "All creatures/NPCs using each replaced target lookType change visually",
+  "exceptions": "Cat286..289: no verified matching Elderan corpse found, retained. Shared ashes7349 retained.",
+  "staticIdleSources": [],
+  "productionActivation": "assets only, no server mechanics change",
+  "files": [
+    {
+      "path": "appearances-59d911664afe8dc9d490ad0e19600069473ffac0cbfa939756690d544ac334b0.dat",
+      "sha256": "59d911664afe8dc9d490ad0e19600069473ffac0cbfa939756690d544ac334b0",
+      "bytes": 4893904
+    },
+    {
+      "path": "catalog-content.json",
+      "sha256": "e82cd58b4ac8908eeae6fba39c20d811d96efdbc2736dcfa360c801297799118",
+      "bytes": 1026580
+    },
+    {
+      "path": "sprites-089c1b791d0782eac06bfb09c830a22ce9f84fa65281ae017214979d4a273a6b.bmp.lzma",
+      "sha256": "bf06dc24a7aa53c0455a52cf8887b75538bc7e7de9771f48f9f4075b9a6b0bbb",
+      "bytes": 4332
+    },
+    {
+      "path": "sprites-c9014c37c81cb18dfb53444a29703c30af9223dd7ffcb1900d3a2b3f1af077e4.bmp.lzma",
+      "sha256": "595138af6d91364955bc1c1993d5d59edc5f774fafc0adb27e56ee92e0fd0df5",
+      "bytes": 8535
+    }
+  ]
+}

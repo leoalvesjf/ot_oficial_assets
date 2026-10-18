@@ -1,0 +1,219 @@
+{
+  "contentPixels": [
+    56,
+    56
+  ],
+  "canvasPixels": [
+    64,
+    64
+  ],
+  "reductionPercent": 12.5,
+  "colorMultipliers": [
+    0.45,
+    0.58,
+    0.35
+  ],
+  "rgbPeak": 144,
+  "alpha": "source samples retained; nearest-neighbor resampling only",
+  "refinedRgbaSha256": "80349fd17b7151678e7c3a40fbbf3a6e4f532043fe87ecfeddd3723589c0eafb",
+  "task": "AST-20261017-MAS-TERA-REFINE",
+  "baseAppearance": "appearances-627598d6edc0164152fce3c1c3601ffa50f35530be5d907ac6b27e8e46398949.dat",
+  "resultAppearance": "appearances-56cdc217564ac572b2c2544d1927c8846889b5867c238b9ec844ee0599bb4d05.dat",
+  "baseSha256": "627598d6edc0164152fce3c1c3601ffa50f35530be5d907ac6b27e8e46398949",
+  "resultSha256": "56cdc217564ac572b2c2544d1927c8846889b5867c238b9ec844ee0599bb4d05",
+  "baseCatalogSha256": "5264778031ff4a839d21c4d1537e12c7830c34c0d773ace2ab35961f5836c0ad",
+  "catalogSha256": "602feeddb232f91dbbf1755e4f3b670f4440d89077cb756b5055e3283f198319",
+  "mapping": [
+    {
+      "category": 3,
+      "source": 485,
+      "target": 9,
+      "label": "mas tera traditional refined",
+      "originalBackupId": 382,
+      "attributes": [
+        {
+          "raw": 17,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 64,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 10,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ]
+        ]
+      },
+      "spriteIds": [
+        293756,
+        293757,
+        293758,
+        293759,
+        293760,
+        293761,
+        293762,
+        293763,
+        293764,
+        293765
+      ],
+      "sourcePack": "Medivia"
+    },
+    {
+      "category": 3,
+      "source": 485,
+      "target": 46,
+      "label": "mas tera modern refined",
+      "originalBackupId": 383,
+      "attributes": [
+        {
+          "raw": 17,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 64,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 10,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ]
+        ]
+      },
+      "spriteIds": [
+        293756,
+        293757,
+        293758,
+        293759,
+        293760,
+        293761,
+        293762,
+        293763,
+        293764,
+        293765
+      ],
+      "sourcePack": "Medivia"
+    }
+  ],
+  "sheets": [
+    {
+      "type": "sprite",
+      "file": "sprites-da16606218f0316ba3a1fd14c7770fa90df754bcde210c9d55c8888ae6fdffa8.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 293756,
+      "lastspriteid": 293791,
+      "area": 0,
+      "used": 10,
+      "sha256": "f0802d72657a8a15d701b4819c273c2a011da8b7837c9719cad9651cd1f9bc5e",
+      "uncompressedSha256": "da16606218f0316ba3a1fd14c7770fa90df754bcde210c9d55c8888ae6fdffa8"
+    }
+  ],
+  "effectAnimation": "COUNTED once; original phase timings preserved",
+  "sourceHashes": {
+    "Tibia.dat": "b3c0914ec901a9e1028fbeee5732ab0d4d435eef34ea21f0286ccca411e83c68",
+    "Tibia.otfi": "7743548835944bc799cb871a4e5def84f7af76815031871b9ce74b5ec0e8add3",
+    "Tibia.spr": "f9666360154ebd059c609234b6a6a15a4bc0315528982e1203986c7a2a89069b"
+  },
+  "serverRoutingPending": {
+    "previous362..365": "Previous exori ico and melee autoattack routing remains pending; no new routing required for these corrections."
+  },
+  "objectsAndOutfitsByteIdentical": true,
+  "unrelatedEffectsAndMissilesByteIdentical": true,
+  "pixelRoundtrip": true
+}

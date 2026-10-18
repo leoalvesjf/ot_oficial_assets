@@ -1,0 +1,405 @@
+{
+  "schema": 1,
+  "coordinationId": "XCOMP-20261017-ECHO-RAIDS",
+  "sources": [
+    {
+      "repository": "zimbadev/crystalserver",
+      "commit": "ddb493002b87b814e13453873e7db9a795933ac1",
+      "file": "data/items/appearances.dat",
+      "sha256": "17a72b30b5c3c9ca8c1283cfb2febd2a93a145ff8ab66916f7a412d0f1dee5a1"
+    },
+    {
+      "package": "15.30 localhost.rar",
+      "url": "https://www.mediafire.com/file/d5bq6c3iuv3cc3l/15.30_localhost.rar/file",
+      "reference": "https://github.com/zimbadev/crystalserver/pull/805",
+      "file": "assets/catalog-content.json",
+      "sha256": "35f3fce8db21bd6b2e25e0a3f0581f2aaf53d56c96165146cd863cc4e7764dfd",
+      "extraction": "HTTP byte ranges; only catalog, appearances and three spritesheets; no executable data requested"
+    }
+  ],
+  "base": {
+    "appearanceFile": "appearances-74160e2d4becb85492e97a7b8e19f4ace0a8fb02fd42d64521eb407163891830.dat",
+    "sha256": "74160e2d4becb85492e97a7b8e19f4ace0a8fb02fd42d64521eb407163891830",
+    "catalogSha256": "c13eaa02c153e04640c613a60d8c09a285a92ac2ed05c4b4d56c47d6cfeab8b6",
+    "objectCount": 42107
+  },
+  "result": {
+    "appearanceFile": "appearances-558e3022115d33c07132f5741b980b691324b072f268a32e30dea753538896eb.dat",
+    "sha256": "558e3022115d33c07132f5741b980b691324b072f268a32e30dea753538896eb",
+    "catalogSha256": "543f11ddfb6ae27b2463dab7a7c53d8d3039c9fe1d8f3649db40a5f1315159af",
+    "objectCount": 42132,
+    "preservedObjects": 42107,
+    "allExistingRecordsByteIdentical": true,
+    "nonObjectFieldsByteIdentical": true
+  },
+  "items": [
+    {
+      "sourceId": 53751,
+      "targetId": 53751,
+      "name": "basic bash scroll",
+      "sprites": [
+        291312
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53752,
+      "targetId": 53752,
+      "name": "basic blockade scroll",
+      "sprites": [
+        291313
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53753,
+      "targetId": 53753,
+      "name": "basic chop scroll",
+      "sprites": [
+        291314
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53754,
+      "targetId": 53754,
+      "name": "basic cloud fabric scroll",
+      "sprites": [
+        291315
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53755,
+      "targetId": 53755,
+      "name": "basic demon presence scroll",
+      "sprites": [
+        291316
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53756,
+      "targetId": 53756,
+      "name": "basic dragon hide scroll",
+      "sprites": [
+        291317
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53757,
+      "targetId": 53757,
+      "name": "basic electrify scroll",
+      "sprites": [
+        291318
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53758,
+      "targetId": 53758,
+      "name": "basic epiphany scroll",
+      "sprites": [
+        291319
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53759,
+      "targetId": 53759,
+      "name": "basic featherweight scroll",
+      "sprites": [
+        291320
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53760,
+      "targetId": 53760,
+      "name": "basic frost scroll",
+      "sprites": [
+        291321
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53761,
+      "targetId": 53761,
+      "name": "basic lich shroud scroll",
+      "sprites": [
+        291322
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53762,
+      "targetId": 53762,
+      "name": "basic precision scroll",
+      "sprites": [
+        291323
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53763,
+      "targetId": 53763,
+      "name": "basic punch scroll",
+      "sprites": [
+        291324
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53764,
+      "targetId": 53764,
+      "name": "basic quara scale scroll",
+      "sprites": [
+        291325
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53765,
+      "targetId": 53765,
+      "name": "basic reap scroll",
+      "sprites": [
+        291326
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53766,
+      "targetId": 53766,
+      "name": "basic scorch scroll",
+      "sprites": [
+        291327
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53767,
+      "targetId": 53767,
+      "name": "basic slash scroll",
+      "sprites": [
+        291328
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53768,
+      "targetId": 53768,
+      "name": "basic snake skin scroll",
+      "sprites": [
+        291329
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53769,
+      "targetId": 53769,
+      "name": "basic strike scroll",
+      "sprites": [
+        291330
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53770,
+      "targetId": 53770,
+      "name": "basic swiftness scroll",
+      "sprites": [
+        291331
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53771,
+      "targetId": 53771,
+      "name": "basic vampirism scroll",
+      "sprites": [
+        291332
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53772,
+      "targetId": 53772,
+      "name": "basic venom scroll",
+      "sprites": [
+        291333
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53773,
+      "targetId": 53773,
+      "name": "basic vibrancy scroll",
+      "sprites": [
+        291334
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 53774,
+      "targetId": 53774,
+      "name": "basic void scroll",
+      "sprites": [
+        291335
+      ],
+      "conflicts": []
+    },
+    {
+      "sourceId": 54133,
+      "targetId": 54133,
+      "name": "echo warden portal",
+      "sprites": [
+        291379,
+        291380,
+        291381,
+        291382,
+        291383,
+        291384,
+        291385,
+        291386,
+        291387,
+        291388
+      ],
+      "conflicts": []
+    }
+  ],
+  "sheets": [
+    {
+      "file": "sprites-677bd60d7b192633af96839fdc04ff160ed44fb1c48e3a0c7f18144f5b8c8fa1.bmp.lzma",
+      "bytes": 36667,
+      "sha256": "1f8211ec25d74e4854cf4b7502881fba4c8656ca9e23578649b3ac9d8139ac0f",
+      "uncompressedSha256": "677bd60d7b192633af96839fdc04ff160ed44fb1c48e3a0c7f18144f5b8c8fa1",
+      "sourceFirst": 240565,
+      "sourceLast": 240708,
+      "targetFirst": 291208,
+      "targetLast": 291351,
+      "spriteType": 0
+    },
+    {
+      "file": "sprites-b7f37c88c54be66c983020d6f260f466805863fbcf4b8788d173e8a789c745e2.bmp.lzma",
+      "bytes": 21341,
+      "sha256": "9f86af9c0ccbcec19a0b25fc381d6a22b1d0d44053bf6915377c2fa76590bc56",
+      "uncompressedSha256": "b7f37c88c54be66c983020d6f260f466805863fbcf4b8788d173e8a789c745e2",
+      "sourceFirst": 299422,
+      "sourceLast": 299457,
+      "targetFirst": 291352,
+      "targetLast": 291387,
+      "spriteType": 3
+    },
+    {
+      "file": "sprites-1f48492642e761dd1f4763c422ae16f8176a78a9343a42e9096759c2315fd54d.bmp.lzma",
+      "bytes": 26380,
+      "sha256": "6d7b4c7cf849775a0edce405d1b3b70e86018e923ddc73776ff17fd2b90fa08b",
+      "uncompressedSha256": "1f48492642e761dd1f4763c422ae16f8176a78a9343a42e9096759c2315fd54d",
+      "sourceFirst": 299458,
+      "sourceLast": 299493,
+      "targetFirst": 291388,
+      "targetLast": 291423,
+      "spriteType": 3
+    }
+  ],
+  "spriteRemap": {
+    "240669": 291312,
+    "240670": 291313,
+    "240671": 291314,
+    "240672": 291315,
+    "240673": 291316,
+    "240674": 291317,
+    "240675": 291318,
+    "240676": 291319,
+    "240677": 291320,
+    "240678": 291321,
+    "240679": 291322,
+    "240680": 291323,
+    "240681": 291324,
+    "240682": 291325,
+    "240683": 291326,
+    "240684": 291327,
+    "240685": 291328,
+    "240686": 291329,
+    "240687": 291330,
+    "240688": 291331,
+    "240689": 291332,
+    "240690": 291333,
+    "240691": 291334,
+    "240692": 291335,
+    "299449": 291379,
+    "299450": 291380,
+    "299451": 291381,
+    "299452": 291382,
+    "299453": 291383,
+    "299454": 291384,
+    "299455": 291385,
+    "299456": 291386,
+    "299457": 291387,
+    "299458": 291388
+  },
+  "catalystsReused": [
+    {
+      "id": 51588,
+      "name": "proficiency catalyst",
+      "sprites": [
+        234688
+      ],
+      "appearanceUnchanged": true
+    },
+    {
+      "id": 51589,
+      "name": "greater proficiency catalyst",
+      "sprites": [
+        234689
+      ],
+      "appearanceUnchanged": true
+    },
+    {
+      "id": 54266,
+      "name": "lesser proficiency catalyst",
+      "sprites": [
+        235255
+      ],
+      "appearanceUnchanged": true
+    }
+  ],
+  "runtimeIdentifier": {
+    "file": "assets.json.sha256",
+    "unchanged": true,
+    "reason": "Identifies upstream assets.json, not the local catalog; addon tracked independently."
+  },
+  "validationLimits": [
+    "Static binary/catalog/sprite checks; no native gameplay.",
+    "Server must integrate new appearance records/items/handlers before activation.",
+    "No redistribution license for CipSoft graphics inferred from repository code license."
+  ],
+  "files": [
+    {
+      "path": "data/things/1525/appearances-558e3022115d33c07132f5741b980b691324b072f268a32e30dea753538896eb.dat",
+      "bytes": 4866292,
+      "sha256": "558e3022115d33c07132f5741b980b691324b072f268a32e30dea753538896eb"
+    },
+    {
+      "path": "data/things/1525/catalog-content.json",
+      "bytes": 1012576,
+      "sha256": "543f11ddfb6ae27b2463dab7a7c53d8d3039c9fe1d8f3649db40a5f1315159af"
+    },
+    {
+      "path": "data/things/1525/sprites-1f48492642e761dd1f4763c422ae16f8176a78a9343a42e9096759c2315fd54d.bmp.lzma",
+      "bytes": 26380,
+      "sha256": "6d7b4c7cf849775a0edce405d1b3b70e86018e923ddc73776ff17fd2b90fa08b"
+    },
+    {
+      "path": "data/things/1525/sprites-677bd60d7b192633af96839fdc04ff160ed44fb1c48e3a0c7f18144f5b8c8fa1.bmp.lzma",
+      "bytes": 36667,
+      "sha256": "1f8211ec25d74e4854cf4b7502881fba4c8656ca9e23578649b3ac9d8139ac0f"
+    },
+    {
+      "path": "data/things/1525/sprites-b7f37c88c54be66c983020d6f260f466805863fbcf4b8788d173e8a789c745e2.bmp.lzma",
+      "bytes": 21341,
+      "sha256": "9f86af9c0ccbcec19a0b25fc381d6a22b1d0d44053bf6915377c2fa76590bc56"
+    }
+  ]
+}

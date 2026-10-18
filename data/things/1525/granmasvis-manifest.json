@@ -1,0 +1,222 @@
+{
+  "paletteEffect": 5,
+  "recoloredRgbaSha256": "e58b4d893e99640400041d6d548836d4ed459f64bf6d1cd1ea0bca28185ff3d2",
+  "nativeOtobjSha256": "38f0d66c6b8ce68ce64e8840dfa4d1044caf5eb9a35530b48377813ac977f572",
+  "originalAlphaPreserved": true,
+  "task": "AST-20261017-GRANMASVIS-NATIVE",
+  "baseAppearance": "appearances-1c4412ff1e5dd83f69e24f350cb0de62df87068da834e0664c1350ec67535c30.dat",
+  "resultAppearance": "appearances-627598d6edc0164152fce3c1c3601ffa50f35530be5d907ac6b27e8e46398949.dat",
+  "baseSha256": "1c4412ff1e5dd83f69e24f350cb0de62df87068da834e0664c1350ec67535c30",
+  "resultSha256": "627598d6edc0164152fce3c1c3601ffa50f35530be5d907ac6b27e8e46398949",
+  "baseCatalogSha256": "3053e42f26092738955bfaedabe25a1f0a34a8c26381741c681e4eebbfb1d1bf",
+  "catalogSha256": "5264778031ff4a839d21c4d1537e12c7830c34c0d773ace2ab35961f5836c0ad",
+  "mapping": [
+    {
+      "category": 3,
+      "source": 60,
+      "target": 351,
+      "label": "gran mas vis traditional: native palette5",
+      "originalBackupId": 380,
+      "attributes": [
+        {
+          "raw": 21,
+          "attr": 21,
+          "value": [
+            3,
+            98
+          ]
+        }
+      ],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 11,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ]
+        ]
+      },
+      "spriteIds": [
+        293720,
+        293721,
+        293722,
+        293723,
+        293724,
+        293725,
+        293726,
+        293727,
+        293728,
+        293729,
+        293730
+      ],
+      "sourcePack": "Elderan"
+    },
+    {
+      "category": 3,
+      "source": 60,
+      "target": 41,
+      "label": "gran mas vis modern: native palette5",
+      "originalBackupId": 381,
+      "attributes": [
+        {
+          "raw": 21,
+          "attr": 21,
+          "value": [
+            3,
+            98
+          ]
+        }
+      ],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 11,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ]
+        ]
+      },
+      "spriteIds": [
+        293720,
+        293721,
+        293722,
+        293723,
+        293724,
+        293725,
+        293726,
+        293727,
+        293728,
+        293729,
+        293730
+      ],
+      "sourcePack": "Elderan"
+    }
+  ],
+  "sheets": [
+    {
+      "type": "sprite",
+      "file": "sprites-600b82bc4b52439e70c0bf3c5e5eb25a42c30776358e6652c53ec3ff0328033d.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 293720,
+      "lastspriteid": 293755,
+      "area": 0,
+      "used": 11,
+      "sha256": "3d2c3fe24e42c73c69ec385adf2efc06f8679e1e88fd2b9b8aec8504a982c2ad",
+      "uncompressedSha256": "600b82bc4b52439e70c0bf3c5e5eb25a42c30776358e6652c53ec3ff0328033d"
+    }
+  ],
+  "effectAnimation": "COUNTED once; original phase timings preserved",
+  "sourceHashes": {
+    "Tibia.dat": "b3c0914ec901a9e1028fbeee5732ab0d4d435eef34ea21f0286ccca411e83c68",
+    "Tibia.otfi": "7743548835944bc799cb871a4e5def84f7af76815031871b9ce74b5ec0e8add3",
+    "Tibia.spr": "f9666360154ebd059c609234b6a6a15a4bc0315528982e1203986c7a2a89069b"
+  },
+  "serverRoutingPending": {
+    "previous362..365": "Previous exori ico and melee autoattack routing remains pending; no new routing required for these corrections."
+  },
+  "objectsAndOutfitsByteIdentical": true,
+  "unrelatedEffectsAndMissilesByteIdentical": true,
+  "pixelRoundtrip": true
+}
