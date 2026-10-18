@@ -1,0 +1,422 @@
+{
+  "task": "AST-20261017-FINAL-ASSETS",
+  "baseAppearance": "appearances-59d911664afe8dc9d490ad0e19600069473ffac0cbfa939756690d544ac334b0.dat",
+  "resultAppearance": "appearances-a25607d5d139161ebfefdc5b95bbc17ff3a72b4b5c506dd64896de77c5d29b75.dat",
+  "baseSha256": "59d911664afe8dc9d490ad0e19600069473ffac0cbfa939756690d544ac334b0",
+  "resultSha256": "a25607d5d139161ebfefdc5b95bbc17ff3a72b4b5c506dd64896de77c5d29b75",
+  "baseCatalogSha256": "e82cd58b4ac8908eeae6fba39c20d811d96efdbc2736dcfa360c801297799118",
+  "catalogSha256": "66cb7301e97eab1cf9e6cccfc4a31c454d40e72a18ecd96586f2d1e0158ef62b",
+  "mapping": [
+    {
+      "category": 3,
+      "source": 31,
+      "target": 384,
+      "label": "exori con impact:server activation pending",
+      "originalBackupId": null,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 19,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ],
+          [
+            40,
+            40
+          ]
+        ]
+      },
+      "spriteIds": [
+        293992,
+        293993,
+        293994,
+        293995,
+        293996,
+        293997,
+        293998,
+        293999,
+        294000,
+        294001,
+        294002,
+        294003,
+        294004,
+        294005,
+        294006,
+        294007,
+        294008,
+        294009,
+        294010
+      ]
+    },
+    {
+      "category": 3,
+      "source": 71,
+      "target": 385,
+      "label": "melee reduced north",
+      "originalBackupId": null,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 6,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ]
+        ]
+      },
+      "spriteIds": [
+        294011,
+        294012,
+        294013,
+        294014,
+        294015,
+        294016
+      ],
+      "sourceEditorId": 87,
+      "direction": "north",
+      "derivation": "Elderan71 cropped by user in editor87, then exact directional rotation and transparent centering"
+    },
+    {
+      "category": 3,
+      "source": 71,
+      "target": 386,
+      "label": "melee reduced east",
+      "originalBackupId": null,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 6,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ]
+        ]
+      },
+      "spriteIds": [
+        294011,
+        294017,
+        294018,
+        294019,
+        294020,
+        294021
+      ],
+      "sourceEditorId": 87,
+      "direction": "east",
+      "derivation": "Elderan71 cropped by user in editor87, then exact directional rotation and transparent centering"
+    },
+    {
+      "category": 3,
+      "source": 71,
+      "target": 387,
+      "label": "melee reduced south",
+      "originalBackupId": null,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 6,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ]
+        ]
+      },
+      "spriteIds": [
+        294011,
+        294022,
+        294023,
+        294024,
+        294025,
+        294026
+      ],
+      "sourceEditorId": 87,
+      "direction": "south",
+      "derivation": "Elderan71 cropped by user in editor87, then exact directional rotation and transparent centering"
+    },
+    {
+      "category": 3,
+      "source": 71,
+      "target": 388,
+      "label": "melee reduced west",
+      "originalBackupId": null,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 6,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ]
+        ]
+      },
+      "spriteIds": [
+        294011,
+        294027,
+        294028,
+        294029,
+        294030,
+        294031
+      ],
+      "sourceEditorId": 87,
+      "direction": "west",
+      "derivation": "Elderan71 cropped by user in editor87, then exact directional rotation and transparent centering"
+    }
+  ],
+  "sheets": [
+    {
+      "type": "sprite",
+      "file": "sprites-846302cff59d769432104d4bbead0cc1445ddd3c6b4782fd4c32b314fa8c59ed.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 293992,
+      "lastspriteid": 294027,
+      "area": 0,
+      "used": 36,
+      "sha256": "24184f326b41ecf429c058bcff9a95d759bbd54f985b1d61f33882ab95e37905",
+      "uncompressedSha256": "846302cff59d769432104d4bbead0cc1445ddd3c6b4782fd4c32b314fa8c59ed"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-ef0b8d2cd2fdb7a2e7a97442895b18b25d67914c2021f1cce227817b01ed4a09.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 294028,
+      "lastspriteid": 294063,
+      "area": 0,
+      "used": 4,
+      "sha256": "aaf551ac48caafbfe4888d5de026307fc26e70c7b7f2ca752191dc320eff48b8",
+      "uncompressedSha256": "ef0b8d2cd2fdb7a2e7a97442895b18b25d67914c2021f1cce227817b01ed4a09"
+    }
+  ],
+  "effectAnimation": "COUNTED once; original phase timings preserved",
+  "sourceHashes": {
+    "Tibia.dat": "b3c0914ec901a9e1028fbeee5732ab0d4d435eef34ea21f0286ccca411e83c68",
+    "Tibia.otfi": "7743548835944bc799cb871a4e5def84f7af76815031871b9ce74b5ec0e8add3",
+    "Tibia.spr": "f9666360154ebd059c609234b6a6a15a4bc0315528982e1203986c7a2a89069b"
+  },
+  "serverRoutingPending": {
+    "exoriCon": 384,
+    "meleeDirections": {
+      "north": 385,
+      "east": 386,
+      "south": 387,
+      "west": 388
+    },
+    "exoriIco": {
+      "sword": 362,
+      "axe": 363,
+      "club": 364
+    }
+  },
+  "objectsAndOutfitsByteIdentical": true,
+  "unrelatedEffectsAndMissilesByteIdentical": true,
+  "pixelRoundtrip": true,
+  "sourceEditableFiles": {
+    "effect_87.otobj": "5161d6c876265f558e7d4bf2405de5255e13bc3dd063121efb38615ef626015a",
+    "00-north.otobj": "c55c2f121746a402c275e9094e6ad42595349be946c2d8195e70c2fc010297a5",
+    "01-east.otobj": "2ff31117625e7a946b258c8f6c673b535e2ef2c8e422f9cb060da2a361b94ef0",
+    "02-south.otobj": "1cb389846453ec1ed9789e3bcb39227b2f6e8ed0d7ceaa78041386cf71e8053c",
+    "03-west.otobj": "579117299069d36744d042395977ffa51323ff4e7b1f5fd0856be1a215fc8f3d"
+  }
+}

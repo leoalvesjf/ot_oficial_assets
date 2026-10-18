@@ -1,0 +1,4711 @@
+{
+  "schema": 1,
+  "task": "AST-20261017-CORPSE-REPLACEMENTS",
+  "baseAppearance": "appearances-41fd5723fa55b61ddcd39868700411a8f79cbd12636fa7f9679b8c46647a13a3.dat",
+  "baseAppearanceSha256": "41fd5723fa55b61ddcd39868700411a8f79cbd12636fa7f9679b8c46647a13a3",
+  "baseCatalogSha256": "9922f06c2d4392f465d593da87f52c280b407c1b8cdbd429095a02118cab063e",
+  "resultAppearance": "appearances-7d8893bb938d645ffe353d89abfe7dfc9befad3aee53907cd3cd1b8c6b549287.dat",
+  "resultAppearanceSha256": "7d8893bb938d645ffe353d89abfe7dfc9befad3aee53907cd3cd1b8c6b549287",
+  "resultCatalogSha256": "6a2134e1425c6a343e6f40dfd37b81a8260f95acb13b39ec4e682816af33e7b6",
+  "sourceHashes": {
+    "Tibia.dat": "b3c0914ec901a9e1028fbeee5732ab0d4d435eef34ea21f0286ccca411e83c68",
+    "Tibia.otfi": "7743548835944bc799cb871a4e5def84f7af76815031871b9ce74b5ec0e8add3",
+    "Tibia.spr": "f9666360154ebd059c609234b6a6a15a4bc0315528982e1203986c7a2a89069b"
+  },
+  "replacements": [
+    {
+      "source": 3987,
+      "target": 3987,
+      "originalBackupId": 54268,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 3989,
+      "target": 3989,
+      "originalBackupId": 54269,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 3,
+          "exact": 64,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 3990,
+      "target": 3990,
+      "originalBackupId": 54270,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 3991,
+      "target": 3991,
+      "originalBackupId": 54271,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 3992,
+      "target": 3992,
+      "originalBackupId": 54272,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 3994,
+      "target": 3994,
+      "originalBackupId": 54273,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 3995,
+      "target": 3995,
+      "originalBackupId": 54274,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 3996,
+      "target": 3996,
+      "originalBackupId": 54275,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 3998,
+      "target": 3998,
+      "originalBackupId": 54276,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 3999,
+      "target": 3999,
+      "originalBackupId": 54277,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4000,
+      "target": 4000,
+      "originalBackupId": 54278,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4001,
+      "target": 4001,
+      "originalBackupId": 54279,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4002,
+      "target": 4002,
+      "originalBackupId": 54280,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4003,
+      "target": 4003,
+      "originalBackupId": 54281,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4004,
+      "target": 4004,
+      "originalBackupId": 54282,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4007,
+      "target": 4007,
+      "originalBackupId": 54283,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4008,
+      "target": 4008,
+      "originalBackupId": 54284,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4009,
+      "target": 4009,
+      "originalBackupId": 54285,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4011,
+      "target": 4011,
+      "originalBackupId": 54286,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4012,
+      "target": 4012,
+      "originalBackupId": 54287,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4013,
+      "target": 4013,
+      "originalBackupId": 54288,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4016,
+      "target": 4016,
+      "originalBackupId": 54289,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4017,
+      "target": 4017,
+      "originalBackupId": 54290,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4018,
+      "target": 4018,
+      "originalBackupId": 54291,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4021,
+      "target": 4021,
+      "originalBackupId": 54292,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4022,
+      "target": 4022,
+      "originalBackupId": 54293,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4024,
+      "target": 4024,
+      "originalBackupId": 54294,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4029,
+      "target": 4029,
+      "originalBackupId": 54295,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4034,
+      "target": 4034,
+      "originalBackupId": 54296,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4035,
+      "target": 4035,
+      "originalBackupId": 54297,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4036,
+      "target": 4036,
+      "originalBackupId": 54298,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4041,
+      "target": 4041,
+      "originalBackupId": 54299,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4042,
+      "target": 4042,
+      "originalBackupId": 54300,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4043,
+      "target": 4043,
+      "originalBackupId": 54301,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4044,
+      "target": 4044,
+      "originalBackupId": 54302,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4045,
+      "target": 4045,
+      "originalBackupId": 54303,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4046,
+      "target": 4046,
+      "originalBackupId": 54304,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4047,
+      "target": 4047,
+      "originalBackupId": 54305,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4048,
+      "target": 4048,
+      "originalBackupId": 54306,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4052,
+      "target": 4052,
+      "originalBackupId": 54307,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4053,
+      "target": 4053,
+      "originalBackupId": 54308,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4057,
+      "target": 4057,
+      "originalBackupId": 54309,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4058,
+      "target": 4058,
+      "originalBackupId": 54310,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4066,
+      "target": 4066,
+      "originalBackupId": 54311,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4078,
+      "target": 4078,
+      "originalBackupId": 54312,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4079,
+      "target": 4079,
+      "originalBackupId": 54313,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4086,
+      "target": 4086,
+      "originalBackupId": 54314,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4087,
+      "target": 4087,
+      "originalBackupId": 54315,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4088,
+      "target": 4088,
+      "originalBackupId": 54316,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4095,
+      "target": 4095,
+      "originalBackupId": 54317,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4096,
+      "target": 4096,
+      "originalBackupId": 54318,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4101,
+      "target": 4101,
+      "originalBackupId": 54319,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4102,
+      "target": 4102,
+      "originalBackupId": 54320,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4103,
+      "target": 4103,
+      "originalBackupId": 54321,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4104,
+      "target": 4104,
+      "originalBackupId": 54322,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4116,
+      "target": 4116,
+      "originalBackupId": 54323,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4117,
+      "target": 4117,
+      "originalBackupId": 54324,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4118,
+      "target": 4118,
+      "originalBackupId": 54325,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4119,
+      "target": 4119,
+      "originalBackupId": 54326,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4120,
+      "target": 4120,
+      "originalBackupId": 54327,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4121,
+      "target": 4121,
+      "originalBackupId": 54328,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4122,
+      "target": 4122,
+      "originalBackupId": 54329,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4123,
+      "target": 4123,
+      "originalBackupId": 54330,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4125,
+      "target": 4125,
+      "originalBackupId": 54331,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4143,
+      "target": 4143,
+      "originalBackupId": 54332,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4145,
+      "target": 4145,
+      "originalBackupId": 54333,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4146,
+      "target": 4146,
+      "originalBackupId": 54334,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4147,
+      "target": 4147,
+      "originalBackupId": 54335,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4148,
+      "target": 4148,
+      "originalBackupId": 54336,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4149,
+      "target": 4149,
+      "originalBackupId": 54337,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4156,
+      "target": 4156,
+      "originalBackupId": 54338,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4157,
+      "target": 4157,
+      "originalBackupId": 54339,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4164,
+      "target": 4164,
+      "originalBackupId": 54340,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4165,
+      "target": 4165,
+      "originalBackupId": 54341,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4166,
+      "target": 4166,
+      "originalBackupId": 54342,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4167,
+      "target": 4167,
+      "originalBackupId": 54343,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4250,
+      "target": 4250,
+      "originalBackupId": 54344,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4266,
+      "target": 4266,
+      "originalBackupId": 54345,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4267,
+      "target": 4267,
+      "originalBackupId": 54346,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4281,
+      "target": 4281,
+      "originalBackupId": 54347,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4291,
+      "target": 4291,
+      "originalBackupId": 54348,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 58,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4292,
+      "target": 4292,
+      "originalBackupId": 54349,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 57,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4293,
+      "target": 4293,
+      "originalBackupId": 54350,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 57,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4299,
+      "target": 4299,
+      "originalBackupId": 54351,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 3,
+          "exact": 63,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4300,
+      "target": 4300,
+      "originalBackupId": 54352,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 3,
+          "exact": 62,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4317,
+      "target": 4317,
+      "originalBackupId": 54353,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4385,
+      "target": 4385,
+      "originalBackupId": 54354,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 46,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4386,
+      "target": 4386,
+      "originalBackupId": 54355,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 45,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4387,
+      "target": 4387,
+      "originalBackupId": 54356,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 45,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 3987,
+      "target": 5960,
+      "originalBackupId": 54357,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4250,
+      "target": 5961,
+      "originalBackupId": 54358,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 3989,
+      "target": 5962,
+      "originalBackupId": 54359,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 3,
+          "exact": 64,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 3990,
+      "target": 5963,
+      "originalBackupId": 54360,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 3994,
+      "target": 5964,
+      "originalBackupId": 54361,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4001,
+      "target": 5966,
+      "originalBackupId": 54362,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4266,
+      "target": 5967,
+      "originalBackupId": 54363,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4007,
+      "target": 5968,
+      "originalBackupId": 54364,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4011,
+      "target": 5969,
+      "originalBackupId": 54365,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4016,
+      "target": 5970,
+      "originalBackupId": 54366,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4281,
+      "target": 5971,
+      "originalBackupId": 54367,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4024,
+      "target": 5972,
+      "originalBackupId": 54368,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4029,
+      "target": 5974,
+      "originalBackupId": 54369,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4291,
+      "target": 5975,
+      "originalBackupId": 54370,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 58,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4034,
+      "target": 5976,
+      "originalBackupId": 54371,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4041,
+      "target": 5978,
+      "originalBackupId": 54372,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4043,
+      "target": 5979,
+      "originalBackupId": 54373,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4045,
+      "target": 5980,
+      "originalBackupId": 54374,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4047,
+      "target": 5981,
+      "originalBackupId": 54375,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4052,
+      "target": 5982,
+      "originalBackupId": 54376,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4057,
+      "target": 5983,
+      "originalBackupId": 54377,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4078,
+      "target": 5988,
+      "originalBackupId": 54378,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4086,
+      "target": 5991,
+      "originalBackupId": 54379,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4095,
+      "target": 5994,
+      "originalBackupId": 54380,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4101,
+      "target": 5996,
+      "originalBackupId": 54381,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4116,
+      "target": 6000,
+      "originalBackupId": 54382,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4119,
+      "target": 6001,
+      "originalBackupId": 54383,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4121,
+      "target": 6002,
+      "originalBackupId": 54384,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4148,
+      "target": 6008,
+      "originalBackupId": 54385,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4164,
+      "target": 6013,
+      "originalBackupId": 54386,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4166,
+      "target": 6014,
+      "originalBackupId": 54387,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4385,
+      "target": 6060,
+      "originalBackupId": 54388,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 46,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 26,
+          "attr": 26,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 3998,
+      "target": 21474,
+      "originalBackupId": 54389,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        },
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 3999,
+      "target": 21475,
+      "originalBackupId": 54390,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4000,
+      "target": 21476,
+      "originalBackupId": 54391,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4145,
+      "target": 31659,
+      "originalBackupId": 54392,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 16,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4267,
+      "target": 31660,
+      "originalBackupId": 54393,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4266,
+      "target": 31661,
+      "originalBackupId": 54394,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 4266,
+      "target": 31662,
+      "originalBackupId": 54395,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 1,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 4,
+          "attr": 4,
+          "value": null
+        }
+      ],
+      "shift": [
+        0,
+        0
+      ]
+    }
+  ],
+  "sheets": [
+    {
+      "type": "sprite",
+      "file": "sprites-382eb3cf6e43056b0fd9a21be81c24546ce4a12d32232e233cce78340a169a31.bmp.lzma",
+      "spritetype": 0,
+      "firstspriteid": 293020,
+      "lastspriteid": 293163,
+      "area": 0,
+      "used": 77,
+      "sha256": "6dd55ed2cf088f72e907fb23e1ca87616e66f433b342b0200401c7c29edda77b",
+      "uncompressedSha256": "382eb3cf6e43056b0fd9a21be81c24546ce4a12d32232e233cce78340a169a31"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-a4bc7acd5876260740151539d5e15a22fce979bf1ef52b5055d5feb866e55a71.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 293164,
+      "lastspriteid": 293199,
+      "area": 0,
+      "used": 9,
+      "sha256": "41591228a2c1a692c0f8bfd70710dd0e6ee79801044ff9086c58b1e2135aa3be",
+      "uncompressedSha256": "a4bc7acd5876260740151539d5e15a22fce979bf1ef52b5055d5feb866e55a71"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-49733dd13963db90324196a930fccd1cdc63274548c7e91958ae68640ed9522a.bmp.lzma",
+      "spritetype": 14,
+      "firstspriteid": 293200,
+      "lastspriteid": 293215,
+      "area": 0,
+      "used": 3,
+      "sha256": "3d387d46d3ab7e72ab895eb260685e416ad6917f9bc8c2a51d17558943b94e49",
+      "uncompressedSha256": "49733dd13963db90324196a930fccd1cdc63274548c7e91958ae68640ed9522a"
+    }
+  ],
+  "backupRange": [
+    54268,
+    54395
+  ],
+  "uniqueSpritePlanes": 89,
+  "serverChangesRequired": false,
+  "sharedLookTypeImpact": "All map objects and creatures sharing each replaced corpse item ID change visually",
+  "exceptions": "Cat286..289: no verified matching Elderan corpse found, retained. Shared ashes7349 retained.",
+  "staticIdleSources": [],
+  "productionActivation": "assets only, no server mechanics change",
+  "files": [
+    {
+      "path": "appearances-7d8893bb938d645ffe353d89abfe7dfc9befad3aee53907cd3cd1b8c6b549287.dat",
+      "sha256": "7d8893bb938d645ffe353d89abfe7dfc9befad3aee53907cd3cd1b8c6b549287",
+      "bytes": 4886439
+    },
+    {
+      "path": "catalog-content.json",
+      "sha256": "6a2134e1425c6a343e6f40dfd37b81a8260f95acb13b39ec4e682816af33e7b6",
+      "bytes": 1021696
+    },
+    {
+      "path": "sprites-382eb3cf6e43056b0fd9a21be81c24546ce4a12d32232e233cce78340a169a31.bmp.lzma",
+      "sha256": "6dd55ed2cf088f72e907fb23e1ca87616e66f433b342b0200401c7c29edda77b",
+      "bytes": 32595
+    },
+    {
+      "path": "sprites-a4bc7acd5876260740151539d5e15a22fce979bf1ef52b5055d5feb866e55a71.bmp.lzma",
+      "sha256": "41591228a2c1a692c0f8bfd70710dd0e6ee79801044ff9086c58b1e2135aa3be",
+      "bytes": 9121
+    },
+    {
+      "path": "sprites-49733dd13963db90324196a930fccd1cdc63274548c7e91958ae68640ed9522a.bmp.lzma",
+      "sha256": "3d387d46d3ab7e72ab895eb260685e416ad6917f9bc8c2a51d17558943b94e49",
+      "bytes": 5507
+    }
+  ],
+  "mappingEvidence": "Current monster corpse and items.xml decayTo chains; legacy OpenTibia OTB clientID/name bridge; Elderan DAT flags and rendered sprite contact sheets. Modern initial corpses use legacy first corpse stage. Sacred Snake/Earworm inherit corresponding base-species decay stages.",
+  "referenceTables": {
+    "reference-items.otb": "e9e7e7f8e00e9e306e6d53a181510e3b07a9e93e78cac97207f4b03f846264a9",
+    "reference-items.xml": "c42a99daeeb3eabd5fb64f72b4189e4baaa53b884b5140da7ab687c7bf695fe5"
+  }
+}
