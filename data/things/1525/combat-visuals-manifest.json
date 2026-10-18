@@ -1,0 +1,1499 @@
+{
+  "task": "AST-20261017-COMBAT-VISUALS",
+  "baseAppearance": "appearances-7d8893bb938d645ffe353d89abfe7dfc9befad3aee53907cd3cd1b8c6b549287.dat",
+  "resultAppearance": "appearances-834798418ea2fcd642d6e4202a06185c59514bd01ef3ea79052e533d4befd1ef.dat",
+  "baseSha256": "7d8893bb938d645ffe353d89abfe7dfc9befad3aee53907cd3cd1b8c6b549287",
+  "resultSha256": "834798418ea2fcd642d6e4202a06185c59514bd01ef3ea79052e533d4befd1ef",
+  "baseCatalogSha256": "6a2134e1425c6a343e6f40dfd37b81a8260f95acb13b39ec4e682816af33e7b6",
+  "catalogSha256": "72d90c01df6a101ecf3598007455734fafecfce4d6539fe8a7c6f0d2f92bccbf",
+  "mapping": [
+    {
+      "category": 3,
+      "source": 35,
+      "target": 173,
+      "label": "critical",
+      "originalBackupId": 366,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 4,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            250,
+            250
+          ],
+          [
+            250,
+            250
+          ]
+        ]
+      },
+      "spriteIds": [
+        293360,
+        293361,
+        293362,
+        293363
+      ]
+    },
+    {
+      "category": 3,
+      "source": 50,
+      "target": 10,
+      "label": "exori/shared hitarea",
+      "originalBackupId": 367,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 1,
+        "height": 1,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 10,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            35,
+            35
+          ],
+          [
+            35,
+            35
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ]
+        ]
+      },
+      "spriteIds": [
+        293216,
+        293217,
+        293218,
+        293219,
+        293220,
+        293221,
+        293222,
+        293223,
+        293224,
+        293225
+      ]
+    },
+    {
+      "category": 3,
+      "source": 58,
+      "target": 13,
+      "label": "blue healing/shared magic blue",
+      "originalBackupId": 368,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 15,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ]
+        ]
+      },
+      "spriteIds": [
+        293364,
+        293365,
+        293366,
+        293367,
+        293368,
+        293369,
+        293370,
+        293371,
+        293372,
+        293373,
+        293374,
+        293375,
+        293376,
+        293377,
+        293378
+      ]
+    },
+    {
+      "category": 3,
+      "source": 57,
+      "target": 15,
+      "label": "haste/shared magic green",
+      "originalBackupId": 369,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 12,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ]
+        ]
+      },
+      "spriteIds": [
+        293379,
+        293380,
+        293381,
+        293382,
+        293383,
+        293384,
+        293385,
+        293386,
+        293387,
+        293388,
+        293389,
+        293390
+      ]
+    },
+    {
+      "category": 3,
+      "source": 65,
+      "target": 18,
+      "label": "SD modern/shared death impact",
+      "originalBackupId": 370,
+      "attributes": [
+        {
+          "raw": 21,
+          "attr": 21,
+          "value": [
+            2,
+            77
+          ]
+        }
+      ],
+      "sourceGroup": {
+        "group": 0,
+        "width": 1,
+        "height": 1,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 10,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            100,
+            100
+          ]
+        ]
+      },
+      "spriteIds": [
+        293226,
+        293227,
+        293228,
+        293229,
+        293230,
+        293231,
+        293232,
+        293233,
+        293234,
+        293235
+      ]
+    },
+    {
+      "category": 3,
+      "source": 65,
+      "target": 352,
+      "label": "SD traditional/shared legacy death impact",
+      "originalBackupId": 371,
+      "attributes": [
+        {
+          "raw": 21,
+          "attr": 21,
+          "value": [
+            2,
+            77
+          ]
+        }
+      ],
+      "sourceGroup": {
+        "group": 0,
+        "width": 1,
+        "height": 1,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 10,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            70,
+            70
+          ],
+          [
+            100,
+            100
+          ]
+        ]
+      },
+      "spriteIds": [
+        293226,
+        293227,
+        293228,
+        293229,
+        293230,
+        293231,
+        293232,
+        293233,
+        293234,
+        293235
+      ]
+    },
+    {
+      "category": 3,
+      "source": 29,
+      "target": 12,
+      "label": "energy impact",
+      "originalBackupId": 372,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 9,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ]
+        ]
+      },
+      "spriteIds": [
+        293391,
+        293392,
+        293393,
+        293394,
+        293395,
+        293396,
+        293397,
+        293398,
+        293399
+      ]
+    },
+    {
+      "category": 3,
+      "source": 29,
+      "target": 38,
+      "label": "energy area",
+      "originalBackupId": 373,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 9,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ]
+        ]
+      },
+      "spriteIds": [
+        293391,
+        293392,
+        293393,
+        293394,
+        293395,
+        293396,
+        293397,
+        293398,
+        293399
+      ]
+    },
+    {
+      "category": 3,
+      "source": 29,
+      "target": 354,
+      "label": "traditional energy strike",
+      "originalBackupId": 374,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 9,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ]
+        ]
+      },
+      "spriteIds": [
+        293391,
+        293392,
+        293393,
+        293394,
+        293395,
+        293396,
+        293397,
+        293398,
+        293399
+      ]
+    },
+    {
+      "category": 3,
+      "source": 41,
+      "target": 50,
+      "label": "exevo mas san/shared holy area",
+      "originalBackupId": 375,
+      "attributes": [
+        {
+          "raw": 21,
+          "attr": 21,
+          "value": [
+            4,
+            210
+          ]
+        }
+      ],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 20,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ],
+          [
+            50,
+            50
+          ]
+        ]
+      },
+      "spriteIds": [
+        293400,
+        293401,
+        293402,
+        293402,
+        293403,
+        293404,
+        293405,
+        293406,
+        293407,
+        293408,
+        293409,
+        293410,
+        293411,
+        293412,
+        293413,
+        293414,
+        293415,
+        293416,
+        293417,
+        293418
+      ]
+    },
+    {
+      "category": 3,
+      "source": 72,
+      "target": 362,
+      "label": "exori ico sword: server routing pending",
+      "originalBackupId": null,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 14,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ]
+        ]
+      },
+      "spriteIds": [
+        293419,
+        293420,
+        293421,
+        293422,
+        293423,
+        293424,
+        293425,
+        293426,
+        293427,
+        293428,
+        293429,
+        293430,
+        293431,
+        293408
+      ]
+    },
+    {
+      "category": 3,
+      "source": 74,
+      "target": 363,
+      "label": "exori ico axe: server routing pending",
+      "originalBackupId": null,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 14,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ]
+        ]
+      },
+      "spriteIds": [
+        293432,
+        293433,
+        293434,
+        293435,
+        293436,
+        293437,
+        293438,
+        293439,
+        293440,
+        293441,
+        293442,
+        293443,
+        293444,
+        293445
+      ]
+    },
+    {
+      "category": 3,
+      "source": 76,
+      "target": 364,
+      "label": "exori ico club: server routing pending",
+      "originalBackupId": null,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 14,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ]
+        ]
+      },
+      "spriteIds": [
+        293446,
+        293447,
+        293448,
+        293449,
+        293450,
+        293451,
+        293452,
+        293453,
+        293454,
+        293455,
+        293456,
+        293457,
+        293458,
+        293445
+      ]
+    },
+    {
+      "category": 3,
+      "source": 71,
+      "target": 365,
+      "label": "successful melee autoattack: server routing pending",
+      "originalBackupId": null,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 6,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ]
+        ]
+      },
+      "spriteIds": [
+        293459,
+        293460,
+        293461,
+        293462,
+        293463,
+        293464
+      ]
+    },
+    {
+      "category": 4,
+      "source": 16,
+      "target": 5,
+      "label": "energy projectile including Wand of Vortex",
+      "originalBackupId": 72,
+      "attributes": [
+        {
+          "raw": 21,
+          "attr": 21,
+          "value": [
+            5,
+            65
+          ]
+        }
+      ],
+      "sourceGroup": {
+        "group": 0,
+        "width": 1,
+        "height": 1,
+        "exact": 32,
+        "layers": 1,
+        "px": 3,
+        "py": 3,
+        "pz": 1,
+        "frames": 1,
+        "sync": 0,
+        "loops": 1,
+        "first": 0,
+        "durations": []
+      },
+      "spriteIds": [
+        293236,
+        293237,
+        293238,
+        293239,
+        293240,
+        293241,
+        293242,
+        293243,
+        293244
+      ]
+    },
+    {
+      "category": 4,
+      "source": 16,
+      "target": 71,
+      "label": "traditional energy strike projectile",
+      "originalBackupId": 73,
+      "attributes": [
+        {
+          "raw": 21,
+          "attr": 21,
+          "value": [
+            5,
+            65
+          ]
+        }
+      ],
+      "sourceGroup": {
+        "group": 0,
+        "width": 1,
+        "height": 1,
+        "exact": 32,
+        "layers": 1,
+        "px": 3,
+        "py": 3,
+        "pz": 1,
+        "frames": 1,
+        "sync": 0,
+        "loops": 1,
+        "first": 0,
+        "durations": []
+      },
+      "spriteIds": [
+        293236,
+        293237,
+        293238,
+        293239,
+        293240,
+        293241,
+        293242,
+        293243,
+        293244
+      ]
+    },
+    {
+      "category": 4,
+      "source": 17,
+      "target": 3,
+      "label": "normal arrow",
+      "originalBackupId": 74,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 1,
+        "height": 1,
+        "exact": 32,
+        "layers": 1,
+        "px": 3,
+        "py": 3,
+        "pz": 1,
+        "frames": 1,
+        "sync": 0,
+        "loops": 1,
+        "first": 0,
+        "durations": []
+      },
+      "spriteIds": [
+        293245,
+        293246,
+        293247,
+        293248,
+        293240,
+        293249,
+        293250,
+        293251,
+        293252
+      ]
+    },
+    {
+      "category": 4,
+      "source": 22,
+      "target": 32,
+      "label": "SD modern projectile",
+      "originalBackupId": 75,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 1,
+        "height": 1,
+        "exact": 32,
+        "layers": 1,
+        "px": 3,
+        "py": 3,
+        "pz": 1,
+        "frames": 1,
+        "sync": 0,
+        "loops": 1,
+        "first": 0,
+        "durations": []
+      },
+      "spriteIds": [
+        293253,
+        293253,
+        293253,
+        293253,
+        293240,
+        293253,
+        293253,
+        293253,
+        293253
+      ]
+    },
+    {
+      "category": 4,
+      "source": 22,
+      "target": 69,
+      "label": "SD traditional/shared death strike projectile",
+      "originalBackupId": 76,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 1,
+        "height": 1,
+        "exact": 32,
+        "layers": 1,
+        "px": 3,
+        "py": 3,
+        "pz": 1,
+        "frames": 1,
+        "sync": 0,
+        "loops": 1,
+        "first": 0,
+        "durations": []
+      },
+      "spriteIds": [
+        293253,
+        293253,
+        293253,
+        293253,
+        293240,
+        293253,
+        293253,
+        293253,
+        293253
+      ]
+    },
+    {
+      "category": 4,
+      "source": 29,
+      "target": 2,
+      "label": "normal bolt",
+      "originalBackupId": 77,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 1,
+        "height": 1,
+        "exact": 32,
+        "layers": 1,
+        "px": 3,
+        "py": 3,
+        "pz": 1,
+        "frames": 1,
+        "sync": 0,
+        "loops": 1,
+        "first": 0,
+        "durations": []
+      },
+      "spriteIds": [
+        293254,
+        293255,
+        293256,
+        293257,
+        293240,
+        293258,
+        293259,
+        293260,
+        293261
+      ]
+    },
+    {
+      "category": 4,
+      "source": 31,
+      "target": 14,
+      "label": "power bolt",
+      "originalBackupId": 78,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 1,
+        "height": 1,
+        "exact": 32,
+        "layers": 1,
+        "px": 3,
+        "py": 3,
+        "pz": 1,
+        "frames": 1,
+        "sync": 0,
+        "loops": 1,
+        "first": 0,
+        "durations": []
+      },
+      "spriteIds": [
+        293262,
+        293263,
+        293264,
+        293265,
+        293240,
+        293266,
+        293267,
+        293268,
+        293269
+      ]
+    }
+  ],
+  "sheets": [
+    {
+      "type": "sprite",
+      "file": "sprites-56d67cb9283e7c2b42cf830a4291cf348f50446292d764b8ca39415d04607d88.bmp.lzma",
+      "spritetype": 0,
+      "firstspriteid": 293216,
+      "lastspriteid": 293359,
+      "area": 0,
+      "used": 54,
+      "sha256": "3886831238301f275442f5036784bf51deefeb36af5a15743ab2e2d577c10ff4",
+      "uncompressedSha256": "56d67cb9283e7c2b42cf830a4291cf348f50446292d764b8ca39415d04607d88"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-6423f82d926c0d7d7f8431bc8f584670c36bc53e75c440be7a048679cbe7a08d.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 293360,
+      "lastspriteid": 293395,
+      "area": 0,
+      "used": 36,
+      "sha256": "41bcbdbf02ba7d7b3a33a7fef2c8da587d16d0abb0d1c5d9f5741984e9738b69",
+      "uncompressedSha256": "6423f82d926c0d7d7f8431bc8f584670c36bc53e75c440be7a048679cbe7a08d"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-4b5e4652daf07a47392fd083de0b7ad88c5a2db238bc0bf729c90d8ca320b391.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 293396,
+      "lastspriteid": 293431,
+      "area": 0,
+      "used": 36,
+      "sha256": "1b5f6cc57b486a92e152ce7c676d5e8cd3f0d9443b9ae329e5b9df1f901bdcaa",
+      "uncompressedSha256": "4b5e4652daf07a47392fd083de0b7ad88c5a2db238bc0bf729c90d8ca320b391"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-3f54d7cbc17d5814f8ff3d8f1216ae8c47de23ad4890baa88406536968ea1b89.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 293432,
+      "lastspriteid": 293467,
+      "area": 0,
+      "used": 33,
+      "sha256": "89e504bbf04e662b99bad0c834a9800a2b50433825ebd8e4a5bf9496f0dac91b",
+      "uncompressedSha256": "3f54d7cbc17d5814f8ff3d8f1216ae8c47de23ad4890baa88406536968ea1b89"
+    }
+  ],
+  "effectAnimation": "COUNTED once; original phase timings preserved",
+  "sourceHashes": {
+    "Tibia.dat": "b3c0914ec901a9e1028fbeee5732ab0d4d435eef34ea21f0286ccca411e83c68",
+    "Tibia.otfi": "7743548835944bc799cb871a4e5def84f7af76815031871b9ce74b5ec0e8add3",
+    "Tibia.spr": "f9666360154ebd059c609234b6a6a15a4bc0315528982e1203986c7a2a89069b"
+  },
+  "serverRoutingPending": {
+    "362": "exori ico sword",
+    "363": "exori ico axe",
+    "364": "exori ico club",
+    "365": "successful autoattack melee only, not spells/misses/blocks"
+  },
+  "objectsAndOutfitsByteIdentical": true,
+  "unrelatedEffectsAndMissilesByteIdentical": true,
+  "pixelRoundtrip": true
+}
