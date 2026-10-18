@@ -1,0 +1,376 @@
+{
+  "task": "AST-20261017-COMBAT-FIXES",
+  "baseAppearance": "appearances-f27b5f4dab47eb1950ae71dd7397a8b94432858f17bbc7997505e706fbbacaec.dat",
+  "resultAppearance": "appearances-1c4412ff1e5dd83f69e24f350cb0de62df87068da834e0664c1350ec67535c30.dat",
+  "baseSha256": "f27b5f4dab47eb1950ae71dd7397a8b94432858f17bbc7997505e706fbbacaec",
+  "resultSha256": "1c4412ff1e5dd83f69e24f350cb0de62df87068da834e0664c1350ec67535c30",
+  "baseCatalogSha256": "67cfc4c7e7969cc0d26becc4df40455f71efd1d5e59e44095e9723934e3cf3d2",
+  "catalogSha256": "3053e42f26092738955bfaedabe25a1f0a34a8c26381741c681e4eebbfb1d1bf",
+  "mapping": [
+    {
+      "category": 3,
+      "source": 36,
+      "target": 173,
+      "label": "critical CRIT correction",
+      "originalBackupId": 376,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 13,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ]
+        ]
+      },
+      "spriteIds": [
+        293684,
+        293685,
+        293686,
+        293687,
+        293688,
+        293689,
+        293690,
+        293691,
+        293692,
+        293693,
+        293694,
+        293695,
+        293696
+      ],
+      "sourcePack": "Elderan"
+    },
+    {
+      "category": 3,
+      "source": 29,
+      "target": 358,
+      "label": "traditional energy wave impact",
+      "originalBackupId": 377,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 9,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            80,
+            80
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ]
+        ]
+      },
+      "spriteIds": [
+        293697,
+        293698,
+        293699,
+        293700,
+        293701,
+        293702,
+        293703,
+        293704,
+        293705
+      ],
+      "sourcePack": "Elderan"
+    },
+    {
+      "category": 3,
+      "source": 485,
+      "target": 9,
+      "label": "Medivia485 traditional exevo gran mas tera",
+      "originalBackupId": 378,
+      "attributes": [
+        {
+          "raw": 17,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 64,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 10,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ]
+        ]
+      },
+      "spriteIds": [
+        293706,
+        293707,
+        293708,
+        293709,
+        293710,
+        293711,
+        293712,
+        293713,
+        293714,
+        293715
+      ],
+      "sourcePack": "Medivia"
+    },
+    {
+      "category": 3,
+      "source": 485,
+      "target": 46,
+      "label": "Medivia485 modern exevo gran mas tera",
+      "originalBackupId": 379,
+      "attributes": [
+        {
+          "raw": 17,
+          "attr": 16,
+          "value": null
+        }
+      ],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 64,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 10,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ],
+          [
+            75,
+            75
+          ]
+        ]
+      },
+      "spriteIds": [
+        293706,
+        293707,
+        293708,
+        293709,
+        293710,
+        293711,
+        293712,
+        293713,
+        293714,
+        293715
+      ],
+      "sourcePack": "Medivia"
+    }
+  ],
+  "sheets": [
+    {
+      "type": "sprite",
+      "file": "sprites-77c2a2bc1071c4dcbdaa4c7adeb16be7d053e8728718f7d2c4a565142dde3e8e.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 293684,
+      "lastspriteid": 293719,
+      "area": 0,
+      "used": 32,
+      "sha256": "4e720dffb9d07a7de7d169e62163f4ad84c03364eab9fbfb95da1ab5699ce656",
+      "uncompressedSha256": "77c2a2bc1071c4dcbdaa4c7adeb16be7d053e8728718f7d2c4a565142dde3e8e"
+    }
+  ],
+  "effectAnimation": "COUNTED once; original phase timings preserved",
+  "sourceHashes": {
+    "Tibia.dat": "b3c0914ec901a9e1028fbeee5732ab0d4d435eef34ea21f0286ccca411e83c68",
+    "Tibia.otfi": "7743548835944bc799cb871a4e5def84f7af76815031871b9ce74b5ec0e8add3",
+    "Tibia.spr": "f9666360154ebd059c609234b6a6a15a4bc0315528982e1203986c7a2a89069b"
+  },
+  "serverRoutingPending": {
+    "previous362..365": "Previous exori ico and melee autoattack routing remains pending; no new routing required for these corrections."
+  },
+  "objectsAndOutfitsByteIdentical": true,
+  "unrelatedEffectsAndMissilesByteIdentical": true,
+  "pixelRoundtrip": true,
+  "mediviaSourceHashes": {
+    "output.dat": "a85244976c888cc1a54177ea6064879d6d6905233f3d73a945cc64a6e10145cf",
+    "Tibia.spr": "95ef2e8bf972c942b0c1cf29c7730c299c6c79a6d256d16ef38ca8f75ba22fcd"
+  },
+  "diagnosis": {
+    "bless": "Elderan35 contains BLESS; previous requested source35->critical173 was wrong semantically. Corrected source36 CRIT ->173.",
+    "energyWave": "Traditional energy_wave.lua sends358, missed in previous replacement; Elderan29 now also replaces358.",
+    "masTera": "User clarified mas pox means exevo gran mas tera. wrath_of_nature.lua sends9 traditional and46 modern; both now use Medivia485.",
+    "granMasVis": "Explosion alternatives prepared only. Existing351 traditional/41 modern preserved pending visual choice."
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "schema": 1,
+  "task": "AST-20261017-CM-OUTFIT",
+  "baseAppearance": "appearances-834798418ea2fcd642d6e4202a06185c59514bd01ef3ea79052e533d4befd1ef.dat",
+  "baseAppearanceSha256": "834798418ea2fcd642d6e4202a06185c59514bd01ef3ea79052e533d4befd1ef",
+  "baseCatalogSha256": "72d90c01df6a101ecf3598007455734fafecfce4d6539fe8a7c6f0d2f92bccbf",
+  "resultAppearance": "appearances-f27b5f4dab47eb1950ae71dd7397a8b94432858f17bbc7997505e706fbbacaec.dat",
+  "resultAppearanceSha256": "f27b5f4dab47eb1950ae71dd7397a8b94432858f17bbc7997505e706fbbacaec",
+  "resultCatalogSha256": "67cfc4c7e7969cc0d26becc4df40455f71efd1d5e59e44095e9723934e3cf3d2",
+  "sourceHashes": {
+    "Tibia.dat": "b3c0914ec901a9e1028fbeee5732ab0d4d435eef34ea21f0286ccca411e83c68",
+    "Tibia.otfi": "7743548835944bc799cb871a4e5def84f7af76815031871b9ce74b5ec0e8add3",
+    "Tibia.spr": "f9666360154ebd059c609234b6a6a15a4bc0315528982e1203986c7a2a89069b"
+  },
+  "replacements": [
+    {
+      "source": 400,
+      "target": 266,
+      "originalBackupId": 1985,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 2,
+          "px": 4,
+          "py": 3,
+          "pz": 1,
+          "frames": 13,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 2,
+          "px": 4,
+          "py": 3,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    }
+  ],
+  "sheets": [
+    {
+      "type": "sprite",
+      "file": "sprites-8ab4707ecd0a52800e9575053dd40ff7bd18c86eb74e43bf9bdd8a025a9bfd9b.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 293468,
+      "lastspriteid": 293503,
+      "area": 0,
+      "used": 36,
+      "sha256": "76ced58f0d9d767b828a8321111e7575ea772c7d0be3b74ae4677e6f00be0d89",
+      "uncompressedSha256": "8ab4707ecd0a52800e9575053dd40ff7bd18c86eb74e43bf9bdd8a025a9bfd9b"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-bd99f8d9f571a36f164e19f9831df72b4e837225a8f86beba610b3255ac733d8.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 293504,
+      "lastspriteid": 293539,
+      "area": 0,
+      "used": 36,
+      "sha256": "3d2a3190b472f6899be45d675e558a96645e7f38992cc8a76d20e0eb05df6b2a",
+      "uncompressedSha256": "bd99f8d9f571a36f164e19f9831df72b4e837225a8f86beba610b3255ac733d8"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-bf140ca1b52215ca3cdc2f660c845441e4cca61f8efba812e5362bb078f15b61.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 293540,
+      "lastspriteid": 293575,
+      "area": 0,
+      "used": 36,
+      "sha256": "153efeb73b906ff3e3c4a7e10227475f5221b079fa507f4d0d13a08c608a9283",
+      "uncompressedSha256": "bf140ca1b52215ca3cdc2f660c845441e4cca61f8efba812e5362bb078f15b61"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-61ddd66ed5a24f96b2c05807e789f5e6bb0581335c99d045317af4840a286ad2.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 293576,
+      "lastspriteid": 293611,
+      "area": 0,
+      "used": 36,
+      "sha256": "5c76f555321fd075a010b3cba8f61c0ec763448ac62b89fc62164267bc295ebf",
+      "uncompressedSha256": "61ddd66ed5a24f96b2c05807e789f5e6bb0581335c99d045317af4840a286ad2"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-b526427e9d01c8ea5c2d8704951d75fca66b2c2e7f1571c91576f22971320a71.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 293612,
+      "lastspriteid": 293647,
+      "area": 0,
+      "used": 36,
+      "sha256": "753daa93fa97a51edda20b60fa9481a0f58116abba4378c43d11343ca691ee65",
+      "uncompressedSha256": "b526427e9d01c8ea5c2d8704951d75fca66b2c2e7f1571c91576f22971320a71"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-2f3d1b41df63eea6765f7ae1bcfa395133135a7b7105537e5a1ad158f928f795.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 293648,
+      "lastspriteid": 293683,
+      "area": 0,
+      "used": 29,
+      "sha256": "5b44e510831c5dcf09fb91639180feb2d5c77f1a16876d311fe7a96f83193e62",
+      "uncompressedSha256": "2f3d1b41df63eea6765f7ae1bcfa395133135a7b7105537e5a1ad158f928f795"
+    }
+  ],
+  "backupRange": [
+    1985,
+    1985
+  ],
+  "uniqueSpritePlanes": 209,
+  "serverChangesRequired": false,
+  "sharedLookTypeImpact": "All creatures/NPCs using each replaced target lookType change visually",
+  "destination": "Community Manager lookType266; God302 and Gamemaster75 unchanged",
+  "staticIdleSources": [],
+  "productionActivation": "assets only, no server mechanics change",
+  "files": [
+    {
+      "path": "appearances-f27b5f4dab47eb1950ae71dd7397a8b94432858f17bbc7997505e706fbbacaec.dat",
+      "sha256": "f27b5f4dab47eb1950ae71dd7397a8b94432858f17bbc7997505e706fbbacaec",
+      "bytes": 4890942
+    },
+    {
+      "path": "catalog-content.json",
+      "sha256": "67cfc4c7e7969cc0d26becc4df40455f71efd1d5e59e44095e9723934e3cf3d2",
+      "bytes": 1023816
+    },
+    {
+      "path": "sprites-8ab4707ecd0a52800e9575053dd40ff7bd18c86eb74e43bf9bdd8a025a9bfd9b.bmp.lzma",
+      "sha256": "76ced58f0d9d767b828a8321111e7575ea772c7d0be3b74ae4677e6f00be0d89",
+      "bytes": 9077
+    },
+    {
+      "path": "sprites-bd99f8d9f571a36f164e19f9831df72b4e837225a8f86beba610b3255ac733d8.bmp.lzma",
+      "sha256": "3d2a3190b472f6899be45d675e558a96645e7f38992cc8a76d20e0eb05df6b2a",
+      "bytes": 9965
+    },
+    {
+      "path": "sprites-bf140ca1b52215ca3cdc2f660c845441e4cca61f8efba812e5362bb078f15b61.bmp.lzma",
+      "sha256": "153efeb73b906ff3e3c4a7e10227475f5221b079fa507f4d0d13a08c608a9283",
+      "bytes": 11585
+    },
+    {
+      "path": "sprites-61ddd66ed5a24f96b2c05807e789f5e6bb0581335c99d045317af4840a286ad2.bmp.lzma",
+      "sha256": "5c76f555321fd075a010b3cba8f61c0ec763448ac62b89fc62164267bc295ebf",
+      "bytes": 8887
+    },
+    {
+      "path": "sprites-b526427e9d01c8ea5c2d8704951d75fca66b2c2e7f1571c91576f22971320a71.bmp.lzma",
+      "sha256": "753daa93fa97a51edda20b60fa9481a0f58116abba4378c43d11343ca691ee65",
+      "bytes": 9083
+    },
+    {
+      "path": "sprites-2f3d1b41df63eea6765f7ae1bcfa395133135a7b7105537e5a1ad158f928f795.bmp.lzma",
+      "sha256": "5b44e510831c5dcf09fb91639180feb2d5c77f1a16876d311fe7a96f83193e62",
+      "bytes": 6561
+    }
+  ]
+}

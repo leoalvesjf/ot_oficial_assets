@@ -11,3 +11,6 @@ data/things/1525/catalog-content.json whitespace=cr-at-eol
 # Echo manifests/shaders retain their hash-pinned source bytes.
 data/things/1525/echo-raids-assets-manifest.json whitespace=cr-at-eol
 data/things/1525/echo-raids/** whitespace=cr-at-eol
+
+# Conversion manifests preserve original hash-trace bytes.
+data/things/1525/*manifest.json whitespace=cr-at-eol

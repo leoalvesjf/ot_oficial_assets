@@ -1,0 +1,4203 @@
+{
+  "schema": 1,
+  "task": "AST-20261017-OUTFIT-REPLACEMENTS",
+  "baseAppearance": "appearances-586cb7baab8c423a7b0bd04415fa400cf2b3161eb64680262e0ac54f2e2a9808.dat",
+  "baseAppearanceSha256": "586cb7baab8c423a7b0bd04415fa400cf2b3161eb64680262e0ac54f2e2a9808",
+  "baseCatalogSha256": "6efa5f2ac1ad441663cf3431b7922ff162acad7486e722834e9738e66bf55b72",
+  "resultAppearance": "appearances-a42cab4e26b2c44e59eb71209b9992ddece0ee7743323478bd6d4ae9aaa6d981.dat",
+  "resultAppearanceSha256": "a42cab4e26b2c44e59eb71209b9992ddece0ee7743323478bd6d4ae9aaa6d981",
+  "resultCatalogSha256": "85f586655dcf55fd45c4735b2ddaf304e7158e227b817b2ff9d8146f72b80edf",
+  "sourceHashes": {
+    "Tibia.dat": "b3c0914ec901a9e1028fbeee5732ab0d4d435eef34ea21f0286ccca411e83c68",
+    "Tibia.otfi": "7743548835944bc799cb871a4e5def84f7af76815031871b9ce74b5ec0e8add3",
+    "Tibia.spr": "f9666360154ebd059c609234b6a6a15a4bc0315528982e1203986c7a2a89069b"
+  },
+  "replacements": [
+    {
+      "source": 13,
+      "target": 13,
+      "originalBackupId": 1950,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            7,
+            7
+          ]
+        }
+      ],
+      "shift": [
+        7,
+        7
+      ]
+    },
+    {
+      "source": 14,
+      "target": 14,
+      "originalBackupId": 1951,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            7,
+            7
+          ]
+        }
+      ],
+      "shift": [
+        7,
+        7
+      ]
+    },
+    {
+      "source": 15,
+      "target": 15,
+      "originalBackupId": 1952,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 14,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            4,
+            4
+          ]
+        }
+      ],
+      "shift": [
+        4,
+        4
+      ]
+    },
+    {
+      "source": 16,
+      "target": 16,
+      "originalBackupId": 1953,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            7,
+            7
+          ]
+        }
+      ],
+      "shift": [
+        7,
+        7
+      ]
+    },
+    {
+      "source": 18,
+      "target": 18,
+      "originalBackupId": 1954,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 10,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            7,
+            7
+          ]
+        }
+      ],
+      "shift": [
+        7,
+        7
+      ]
+    },
+    {
+      "source": 21,
+      "target": 21,
+      "originalBackupId": 1955,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 10,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            5,
+            5
+          ]
+        }
+      ],
+      "shift": [
+        5,
+        5
+      ]
+    },
+    {
+      "source": 22,
+      "target": 22,
+      "originalBackupId": 1956,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 3,
+          "height": 3,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 3,
+          "height": 3,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            1,
+            1
+          ]
+        }
+      ],
+      "shift": [
+        1,
+        1
+      ]
+    },
+    {
+      "source": 23,
+      "target": 23,
+      "originalBackupId": 1957,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 24,
+      "target": 24,
+      "originalBackupId": 1958,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 25,
+      "target": 25,
+      "originalBackupId": 1959,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            7,
+            7
+          ]
+        }
+      ],
+      "shift": [
+        7,
+        7
+      ]
+    },
+    {
+      "source": 26,
+      "target": 26,
+      "originalBackupId": 1960,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            4,
+            4
+          ]
+        }
+      ],
+      "shift": [
+        4,
+        4
+      ]
+    },
+    {
+      "source": 27,
+      "target": 27,
+      "originalBackupId": 1961,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 10,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 28,
+      "target": 28,
+      "originalBackupId": 1962,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 29,
+      "target": 29,
+      "originalBackupId": 1963,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 30,
+      "target": 30,
+      "originalBackupId": 1964,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 10,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 31,
+      "target": 31,
+      "originalBackupId": 1965,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            7,
+            7
+          ]
+        }
+      ],
+      "shift": [
+        7,
+        7
+      ]
+    },
+    {
+      "source": 33,
+      "target": 33,
+      "originalBackupId": 1966,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            7,
+            7
+          ]
+        }
+      ],
+      "shift": [
+        7,
+        7
+      ]
+    },
+    {
+      "source": 43,
+      "target": 43,
+      "originalBackupId": 1967,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 10,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            7,
+            7
+          ]
+        }
+      ],
+      "shift": [
+        7,
+        7
+      ]
+    },
+    {
+      "source": 5,
+      "target": 5,
+      "originalBackupId": 1968,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            7,
+            7
+          ]
+        }
+      ],
+      "shift": [
+        7,
+        7
+      ]
+    },
+    {
+      "source": 6,
+      "target": 6,
+      "originalBackupId": 1969,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 7,
+      "target": 7,
+      "originalBackupId": 1970,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            2,
+            2
+          ]
+        }
+      ],
+      "shift": [
+        2,
+        2
+      ]
+    },
+    {
+      "source": 8,
+      "target": 8,
+      "originalBackupId": 1971,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 2,
+      "target": 2,
+      "originalBackupId": 1972,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            1,
+            1
+          ]
+        }
+      ],
+      "shift": [
+        1,
+        1
+      ]
+    },
+    {
+      "source": 59,
+      "target": 59,
+      "originalBackupId": 1973,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 61,
+      "target": 61,
+      "originalBackupId": 1974,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 10,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 60,
+      "target": 60,
+      "originalBackupId": 1975,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            7,
+            7
+          ]
+        }
+      ],
+      "shift": [
+        7,
+        7
+      ]
+    },
+    {
+      "source": 70,
+      "target": 70,
+      "originalBackupId": 1976,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            3,
+            3
+          ]
+        }
+      ],
+      "shift": [
+        3,
+        3
+      ]
+    },
+    {
+      "source": 71,
+      "target": 71,
+      "originalBackupId": 1977,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            3,
+            3
+          ]
+        }
+      ],
+      "shift": [
+        3,
+        3
+      ]
+    },
+    {
+      "source": 56,
+      "target": 56,
+      "originalBackupId": 1978,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 10,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            4,
+            1
+          ]
+        }
+      ],
+      "shift": [
+        4,
+        1
+      ]
+    },
+    {
+      "source": 50,
+      "target": 50,
+      "originalBackupId": 1979,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 36,
+      "target": 36,
+      "originalBackupId": 1980,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 37,
+      "target": 37,
+      "originalBackupId": 1981,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 12,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [
+        {
+          "raw": 24,
+          "attr": 24,
+          "value": [
+            7,
+            7
+          ]
+        }
+      ],
+      "shift": [
+        7,
+        7
+      ]
+    },
+    {
+      "source": 219,
+      "target": 219,
+      "originalBackupId": 1982,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 10,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ],
+            [
+              100,
+              100
+            ]
+          ]
+        },
+        {
+          "group": 1,
+          "width": 2,
+          "height": 2,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 256,
+      "target": 32,
+      "originalBackupId": 1983,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        },
+        {
+          "group": 1,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": 257,
+      "target": 276,
+      "originalBackupId": 1984,
+      "sourceGroups": [
+        {
+          "group": 0,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 1,
+          "sync": 0,
+          "loops": 1,
+          "first": 0,
+          "durations": []
+        },
+        {
+          "group": 1,
+          "width": 1,
+          "height": 1,
+          "exact": 32,
+          "layers": 1,
+          "px": 4,
+          "py": 1,
+          "pz": 1,
+          "frames": 2,
+          "sync": 0,
+          "loops": 0,
+          "first": 0,
+          "durations": [
+            [
+              300,
+              300
+            ],
+            [
+              300,
+              300
+            ]
+          ]
+        }
+      ],
+      "sourceAttributes": [],
+      "shift": [
+        0,
+        0
+      ]
+    }
+  ],
+  "sheets": [
+    {
+      "type": "sprite",
+      "file": "sprites-ba6480ac5d4ac153198f0147e99d66055d5625fa8e3dddb15a289df5bd32dcd4.bmp.lzma",
+      "spritetype": 0,
+      "firstspriteid": 291460,
+      "lastspriteid": 291603,
+      "area": 0,
+      "used": 144,
+      "sha256": "198a14adfb53c3a6d80a9fcf030f19ac4588aec3c507696a72a9d13d3e11cd0f",
+      "uncompressedSha256": "ba6480ac5d4ac153198f0147e99d66055d5625fa8e3dddb15a289df5bd32dcd4"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-c74738596b07717b42396c7802fc2feaaacf93abdb21c2c9d1c68fda0c0f3236.bmp.lzma",
+      "spritetype": 0,
+      "firstspriteid": 291604,
+      "lastspriteid": 291747,
+      "area": 0,
+      "used": 110,
+      "sha256": "599c5795b5b9233745c910497e06d1e35e13d8cd936c622992401d375c187547",
+      "uncompressedSha256": "c74738596b07717b42396c7802fc2feaaacf93abdb21c2c9d1c68fda0c0f3236"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-7bb360671017c71eac384ab57ead8f74939ae99c2bc38255ac4e7e39bf234c93.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 291748,
+      "lastspriteid": 291783,
+      "area": 0,
+      "used": 36,
+      "sha256": "afaf41ec152a979b3a15d948ba7a9d639ec78bf468d8859f7c29a819ee7aa95e",
+      "uncompressedSha256": "7bb360671017c71eac384ab57ead8f74939ae99c2bc38255ac4e7e39bf234c93"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-df0eda645cdfde724e305d613480ca503a04df213866a8624b4af557f8f55295.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 291784,
+      "lastspriteid": 291819,
+      "area": 0,
+      "used": 36,
+      "sha256": "4f9ab5cec1ca46eb3ab7567712d6f1c12916d8a1ee7a0c6209172899191723f9",
+      "uncompressedSha256": "df0eda645cdfde724e305d613480ca503a04df213866a8624b4af557f8f55295"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-dd474956c911d212b1f1e6177ccd214c2cce3967b1f13b771782e7f449ce7c8c.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 291820,
+      "lastspriteid": 291855,
+      "area": 0,
+      "used": 36,
+      "sha256": "810893088b742bafaa17305b1419d3f2e35f998f8fb93d2343fcd873f26933f8",
+      "uncompressedSha256": "dd474956c911d212b1f1e6177ccd214c2cce3967b1f13b771782e7f449ce7c8c"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-4f5f53dd1cdc2cec8a40d59f3a787395e81b04d2f2ddda8ffb4b6a9664c7ca49.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 291856,
+      "lastspriteid": 291891,
+      "area": 0,
+      "used": 36,
+      "sha256": "aaa60dfc1b3ab1db5744854ea66f4b9bfbc52186b12d876a16b33b73a2f16b27",
+      "uncompressedSha256": "4f5f53dd1cdc2cec8a40d59f3a787395e81b04d2f2ddda8ffb4b6a9664c7ca49"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-568e5da50f5ec1bd7ee2df9d674d0130e1c041cb6e77f289dab6f585f3046b2b.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 291892,
+      "lastspriteid": 291927,
+      "area": 0,
+      "used": 36,
+      "sha256": "0f3132642ff6b0cf8d8faf911b27204da4fe6aa57839f103a2ca0f4df8138fb1",
+      "uncompressedSha256": "568e5da50f5ec1bd7ee2df9d674d0130e1c041cb6e77f289dab6f585f3046b2b"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-a0f1210205fd51ff4f6d7a1888bfd14bd0cab09e71648b74164ec8d35e997b56.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 291928,
+      "lastspriteid": 291963,
+      "area": 0,
+      "used": 36,
+      "sha256": "c83c1874f9abeab790ecb4be5f594ebe93b96b28a6cd807ee38c3eac561bae50",
+      "uncompressedSha256": "a0f1210205fd51ff4f6d7a1888bfd14bd0cab09e71648b74164ec8d35e997b56"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-4c62b6cfaf38a00b6607c673790726d7dd950d3bd76a50950b3d4dae03d41cf5.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 291964,
+      "lastspriteid": 291999,
+      "area": 0,
+      "used": 36,
+      "sha256": "0b18b14dcd0e5f5210368d3675fc2f37fe97d2d9eac7bde4947a77fed21c373c",
+      "uncompressedSha256": "4c62b6cfaf38a00b6607c673790726d7dd950d3bd76a50950b3d4dae03d41cf5"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-e35d6aa6fd4c7a7f59fc3733f8e68b13a8bb7f4db7c87f28aa50dceeb40ef7ab.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292000,
+      "lastspriteid": 292035,
+      "area": 0,
+      "used": 36,
+      "sha256": "5b01a4afd79d2627e3e13284944d8cc12e63fbd985a0825b2309c8c07efccaa5",
+      "uncompressedSha256": "e35d6aa6fd4c7a7f59fc3733f8e68b13a8bb7f4db7c87f28aa50dceeb40ef7ab"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-feb1e0b51d02256421832c429054e62b86cb63598c8c8ea2a450448375ce0ee3.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292036,
+      "lastspriteid": 292071,
+      "area": 0,
+      "used": 36,
+      "sha256": "49514807781c1d1b536326159d9e8c99cb4b62ea7431bc3e4781fc2fb7451032",
+      "uncompressedSha256": "feb1e0b51d02256421832c429054e62b86cb63598c8c8ea2a450448375ce0ee3"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-3d49dd5fb647d06a42ad67ddcafe67692bdf8b0edc37a3fe1706b50a2ce72a7b.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292072,
+      "lastspriteid": 292107,
+      "area": 0,
+      "used": 36,
+      "sha256": "f9f93aec542d199fe7ea417b21317b0c6ba929d9a0e2c92c7137619dc9f26a07",
+      "uncompressedSha256": "3d49dd5fb647d06a42ad67ddcafe67692bdf8b0edc37a3fe1706b50a2ce72a7b"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-746c3ed62400bfc03db185f497a42b6c243582e3b8d4bcc26cf5d9bafd3ec28d.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292108,
+      "lastspriteid": 292143,
+      "area": 0,
+      "used": 36,
+      "sha256": "80b50baf6c5922a0cc8873901672f6ef34cd93a2376d7ff5e4a36e4fa1e8be7d",
+      "uncompressedSha256": "746c3ed62400bfc03db185f497a42b6c243582e3b8d4bcc26cf5d9bafd3ec28d"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-b1725c197ba6107a8911e96349650ec32d7a55d193297e10f89e3538766d4754.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292144,
+      "lastspriteid": 292179,
+      "area": 0,
+      "used": 36,
+      "sha256": "bd4468b8535ed7bc85975e08e52ec9cf7eb52471d9e207050b14dc50a5992fb6",
+      "uncompressedSha256": "b1725c197ba6107a8911e96349650ec32d7a55d193297e10f89e3538766d4754"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-23eedef7db411101e32e0f99bce8285638f5eff393330728743d8ccced2f6531.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292180,
+      "lastspriteid": 292215,
+      "area": 0,
+      "used": 36,
+      "sha256": "611ea03e9653d687251fac5adf48f790f2bc24cf85b9ad48a10b91eee6b8bde2",
+      "uncompressedSha256": "23eedef7db411101e32e0f99bce8285638f5eff393330728743d8ccced2f6531"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-9e3dce69f016094a0f6e6ac1418122b576d0446888c599ee9634f4ad979f22d8.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292216,
+      "lastspriteid": 292251,
+      "area": 0,
+      "used": 36,
+      "sha256": "8641593a718ae0278665854e95f1b4dbe73316aaa7ed602fb4e3cac95a07b22e",
+      "uncompressedSha256": "9e3dce69f016094a0f6e6ac1418122b576d0446888c599ee9634f4ad979f22d8"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-4b85ff97a65cee84b9b9c4abb3f074f983c88a596940ec9a75a122124fbb2109.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292252,
+      "lastspriteid": 292287,
+      "area": 0,
+      "used": 36,
+      "sha256": "e0ff226b25e80e5a613ccfecb740d335432b0a7dc6ea35f13f6982c337fdf2a3",
+      "uncompressedSha256": "4b85ff97a65cee84b9b9c4abb3f074f983c88a596940ec9a75a122124fbb2109"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-c32e303186718c4b44f4de2c3b2a0877c570d620b74d43ee2ab6381f9816b316.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292288,
+      "lastspriteid": 292323,
+      "area": 0,
+      "used": 36,
+      "sha256": "9d7dd6253762f245e47358a1eeba13220d3a386f4c0cc02004adac745100e9b2",
+      "uncompressedSha256": "c32e303186718c4b44f4de2c3b2a0877c570d620b74d43ee2ab6381f9816b316"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-bcfd29fccb139e140034d3794a2546517ee129d82136bf4ce801806d3e9d7c5a.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292324,
+      "lastspriteid": 292359,
+      "area": 0,
+      "used": 36,
+      "sha256": "25bdd78e52c6dacc72064f4a2740ba9a9f156ee7619748682883815d54d7b052",
+      "uncompressedSha256": "bcfd29fccb139e140034d3794a2546517ee129d82136bf4ce801806d3e9d7c5a"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-9b3aba675d38d0f1e9c7d574b90ebc9349a26e330d2e127d7ed0ccfc11cab4e3.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292360,
+      "lastspriteid": 292395,
+      "area": 0,
+      "used": 36,
+      "sha256": "9ba81cc739c2dd31dc268df6f1acdbff9d933819a23059d30081dbdb45350b9d",
+      "uncompressedSha256": "9b3aba675d38d0f1e9c7d574b90ebc9349a26e330d2e127d7ed0ccfc11cab4e3"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-f1d548219ef1b8ecdf3bebf1354ebbe15d5b40aa2c737fe006e0c6628359e8b8.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292396,
+      "lastspriteid": 292431,
+      "area": 0,
+      "used": 36,
+      "sha256": "4f0a5e4d0f1b346a75fd3098fb4734355d66b0575a080e8ce5c80356e03d00c8",
+      "uncompressedSha256": "f1d548219ef1b8ecdf3bebf1354ebbe15d5b40aa2c737fe006e0c6628359e8b8"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-a3f958648815848da942b093615c04045ec76ceaa261ba77f7db705ca3dc1fc0.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292432,
+      "lastspriteid": 292467,
+      "area": 0,
+      "used": 36,
+      "sha256": "86765a78c9c8eb197166764918233a36cec38292a66837f61214cc05ee5cfec1",
+      "uncompressedSha256": "a3f958648815848da942b093615c04045ec76ceaa261ba77f7db705ca3dc1fc0"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-1e2c1a91ccae0f4148f08e9e01b600cf5613ed385b67792d26e7690f8132a844.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292468,
+      "lastspriteid": 292503,
+      "area": 0,
+      "used": 36,
+      "sha256": "ec4a6aef4a2830a02233c8902dd59c75289ca73211c8d6de1e0bbd84c65afb23",
+      "uncompressedSha256": "1e2c1a91ccae0f4148f08e9e01b600cf5613ed385b67792d26e7690f8132a844"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-a7cc110c1f24215a6b5d4e2397849c98fc0219ff6ca7c9ce304a5fe900c2d94a.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292504,
+      "lastspriteid": 292539,
+      "area": 0,
+      "used": 36,
+      "sha256": "1b4ec501e840b94cf12bdd327ee5126ef918b80541715ade344123545635e217",
+      "uncompressedSha256": "a7cc110c1f24215a6b5d4e2397849c98fc0219ff6ca7c9ce304a5fe900c2d94a"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-806cc6d271fa326d79e46e75165c77936d1fb11dad92c88e373f5c555470b133.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292540,
+      "lastspriteid": 292575,
+      "area": 0,
+      "used": 36,
+      "sha256": "8ba1529dc504353fa40f81b3768d0d3580417f952cf5535d212da3399cbf3439",
+      "uncompressedSha256": "806cc6d271fa326d79e46e75165c77936d1fb11dad92c88e373f5c555470b133"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-1ed5527ff9e30ae4c749dc13fe84c578218b01aab80634a65ffe31b2b4907a2e.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292576,
+      "lastspriteid": 292611,
+      "area": 0,
+      "used": 36,
+      "sha256": "21b3ac05c09314a9ebe3d89a31766142e91165bc4c8d30dcc71470b20ea3a102",
+      "uncompressedSha256": "1ed5527ff9e30ae4c749dc13fe84c578218b01aab80634a65ffe31b2b4907a2e"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-1c7c42f136750d481b440afb98e6645d6b2157cdcb28e9a25a877bf95a5d59a0.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292612,
+      "lastspriteid": 292647,
+      "area": 0,
+      "used": 36,
+      "sha256": "517c61e2332de2c65640d8b30ea6f860e79899d7578881fc4cd9c82a1243833c",
+      "uncompressedSha256": "1c7c42f136750d481b440afb98e6645d6b2157cdcb28e9a25a877bf95a5d59a0"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-77e2f5b6c6d1a86824cbf3d25782927c55dfe0fcb33089600c9a50e96fc7a43d.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292648,
+      "lastspriteid": 292683,
+      "area": 0,
+      "used": 36,
+      "sha256": "5d4e17dc489d4566a1c3c5b49f9e2a498f475214d0167c508fe732a16c0a95c3",
+      "uncompressedSha256": "77e2f5b6c6d1a86824cbf3d25782927c55dfe0fcb33089600c9a50e96fc7a43d"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-ee0e7be3192c380c4ac5596d8ae8a039bf224a56c70d27809407e5d797fe6699.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292684,
+      "lastspriteid": 292719,
+      "area": 0,
+      "used": 36,
+      "sha256": "54335e46a7ea4573a9af8334d595b1600c7032275879de08aaddec98ebf778d7",
+      "uncompressedSha256": "ee0e7be3192c380c4ac5596d8ae8a039bf224a56c70d27809407e5d797fe6699"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-dece9427313d8eb454ebd243eb7c38b14491744ef94c3b438cf4e379a4cbc83c.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292720,
+      "lastspriteid": 292755,
+      "area": 0,
+      "used": 36,
+      "sha256": "afbeb153c9e11f63e67fb3e3f4d89c9613cd015f9327ec56d17c670286e5fe7d",
+      "uncompressedSha256": "dece9427313d8eb454ebd243eb7c38b14491744ef94c3b438cf4e379a4cbc83c"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-58136ab1776a6f4fb328d4a4a6d76bc973d3b575d66b4c66768953ba117fa23c.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292756,
+      "lastspriteid": 292791,
+      "area": 0,
+      "used": 36,
+      "sha256": "c41113843770feddcf74599d5ac9cbf2cbe2b1297636055df1c0e3b1450bea66",
+      "uncompressedSha256": "58136ab1776a6f4fb328d4a4a6d76bc973d3b575d66b4c66768953ba117fa23c"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-bcfc106221c108fb4fbcbfaab58d2a0370dbdf4d9993348c5a07ece17ffc2236.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292792,
+      "lastspriteid": 292827,
+      "area": 0,
+      "used": 36,
+      "sha256": "db58a9e288c5c249137ca1a8b01dac1e8b943dc94f20502117a698268ee82a4e",
+      "uncompressedSha256": "bcfc106221c108fb4fbcbfaab58d2a0370dbdf4d9993348c5a07ece17ffc2236"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-b12f8083bdab74ffcd597a0f90be8323168a0ff3b9fd30f826b1a278dfb9816e.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292828,
+      "lastspriteid": 292863,
+      "area": 0,
+      "used": 36,
+      "sha256": "2758a597f43397252faa70e91dd02759fc1d27fc33f2edba4bc039d989318d15",
+      "uncompressedSha256": "b12f8083bdab74ffcd597a0f90be8323168a0ff3b9fd30f826b1a278dfb9816e"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-e43bcf1f3cb18884d50dd9f77726ee29eb521806f25b38e5cd204b8f9e290fb1.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292864,
+      "lastspriteid": 292899,
+      "area": 0,
+      "used": 36,
+      "sha256": "0e57990b8f550bdb645f52ea0aa7c8e08be0ba4bf9d23f92c24fb7afec1c9226",
+      "uncompressedSha256": "e43bcf1f3cb18884d50dd9f77726ee29eb521806f25b38e5cd204b8f9e290fb1"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-b8e4d1b4a26a0222f2e2bab842d322cec6d584984a988a621f035a8a0edeaa78.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292900,
+      "lastspriteid": 292935,
+      "area": 0,
+      "used": 4,
+      "sha256": "5831f7a63847405d571d1b4df9cebf0908194773e18a3e850b33957fbe24cdb5",
+      "uncompressedSha256": "b8e4d1b4a26a0222f2e2bab842d322cec6d584984a988a621f035a8a0edeaa78"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-e7b8e31f697069dff8babc7efe459fbed8bdfe615eccefab830f242cf382e2b2.bmp.lzma",
+      "spritetype": 14,
+      "firstspriteid": 292936,
+      "lastspriteid": 292951,
+      "area": 0,
+      "used": 16,
+      "sha256": "ee2a11719141865c7fdf0e38b3a3624075265ebd73aef71dedbe96b060efb496",
+      "uncompressedSha256": "e7b8e31f697069dff8babc7efe459fbed8bdfe615eccefab830f242cf382e2b2"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-36865fabcd617cf4621c0bc3b525cb66ff3f07006a78ee7a5676ba5c8010a60a.bmp.lzma",
+      "spritetype": 14,
+      "firstspriteid": 292952,
+      "lastspriteid": 292967,
+      "area": 0,
+      "used": 16,
+      "sha256": "781c18232cd87def7b5f5e43f42e6ed85461e989fcaf297410f27da6c1447cfe",
+      "uncompressedSha256": "36865fabcd617cf4621c0bc3b525cb66ff3f07006a78ee7a5676ba5c8010a60a"
+    },
+    {
+      "type": "sprite",
+      "file": "sprites-841905f15f8bdacb1293184e202778628c6c8621a1f353380b77b64d6890a195.bmp.lzma",
+      "spritetype": 14,
+      "firstspriteid": 292968,
+      "lastspriteid": 292983,
+      "area": 0,
+      "used": 14,
+      "sha256": "d61aafbf3e56be4fb0e394046aa3ae3f26dc40b76f75db2ea7e799ba64c60419",
+      "uncompressedSha256": "841905f15f8bdacb1293184e202778628c6c8621a1f353380b77b64d6890a195"
+    }
+  ],
+  "backupRange": [
+    1950,
+    1984
+  ],
+  "uniqueSpritePlanes": 1456,
+  "serverChangesRequired": false,
+  "sharedLookTypeImpact": "All creatures/NPCs using each replaced target lookType change visually",
+  "pendingTargetDummy": null,
+  "staticIdleSources": [
+    256,
+    257
+  ],
+  "productionActivation": "assets only, no server mechanics change",
+  "files": [
+    {
+      "path": "appearances-a42cab4e26b2c44e59eb71209b9992ddece0ee7743323478bd6d4ae9aaa6d981.dat",
+      "sha256": "a42cab4e26b2c44e59eb71209b9992ddece0ee7743323478bd6d4ae9aaa6d981",
+      "bytes": 4879418
+    },
+    {
+      "path": "catalog-content.json",
+      "sha256": "85f586655dcf55fd45c4735b2ddaf304e7158e227b817b2ff9d8146f72b80edf",
+      "bytes": 1020847
+    },
+    {
+      "path": "sprites-ba6480ac5d4ac153198f0147e99d66055d5625fa8e3dddb15a289df5bd32dcd4.bmp.lzma",
+      "sha256": "198a14adfb53c3a6d80a9fcf030f19ac4588aec3c507696a72a9d13d3e11cd0f",
+      "bytes": 16696
+    },
+    {
+      "path": "sprites-c74738596b07717b42396c7802fc2feaaacf93abdb21c2c9d1c68fda0c0f3236.bmp.lzma",
+      "sha256": "599c5795b5b9233745c910497e06d1e35e13d8cd936c622992401d375c187547",
+      "bytes": 20194
+    },
+    {
+      "path": "sprites-7bb360671017c71eac384ab57ead8f74939ae99c2bc38255ac4e7e39bf234c93.bmp.lzma",
+      "sha256": "afaf41ec152a979b3a15d948ba7a9d639ec78bf468d8859f7c29a819ee7aa95e",
+      "bytes": 12306
+    },
+    {
+      "path": "sprites-df0eda645cdfde724e305d613480ca503a04df213866a8624b4af557f8f55295.bmp.lzma",
+      "sha256": "4f9ab5cec1ca46eb3ab7567712d6f1c12916d8a1ee7a0c6209172899191723f9",
+      "bytes": 15147
+    },
+    {
+      "path": "sprites-dd474956c911d212b1f1e6177ccd214c2cce3967b1f13b771782e7f449ce7c8c.bmp.lzma",
+      "sha256": "810893088b742bafaa17305b1419d3f2e35f998f8fb93d2343fcd873f26933f8",
+      "bytes": 16852
+    },
+    {
+      "path": "sprites-4f5f53dd1cdc2cec8a40d59f3a787395e81b04d2f2ddda8ffb4b6a9664c7ca49.bmp.lzma",
+      "sha256": "aaa60dfc1b3ab1db5744854ea66f4b9bfbc52186b12d876a16b33b73a2f16b27",
+      "bytes": 8685
+    },
+    {
+      "path": "sprites-568e5da50f5ec1bd7ee2df9d674d0130e1c041cb6e77f289dab6f585f3046b2b.bmp.lzma",
+      "sha256": "0f3132642ff6b0cf8d8faf911b27204da4fe6aa57839f103a2ca0f4df8138fb1",
+      "bytes": 14508
+    },
+    {
+      "path": "sprites-a0f1210205fd51ff4f6d7a1888bfd14bd0cab09e71648b74164ec8d35e997b56.bmp.lzma",
+      "sha256": "c83c1874f9abeab790ecb4be5f594ebe93b96b28a6cd807ee38c3eac561bae50",
+      "bytes": 14981
+    },
+    {
+      "path": "sprites-4c62b6cfaf38a00b6607c673790726d7dd950d3bd76a50950b3d4dae03d41cf5.bmp.lzma",
+      "sha256": "0b18b14dcd0e5f5210368d3675fc2f37fe97d2d9eac7bde4947a77fed21c373c",
+      "bytes": 13310
+    },
+    {
+      "path": "sprites-e35d6aa6fd4c7a7f59fc3733f8e68b13a8bb7f4db7c87f28aa50dceeb40ef7ab.bmp.lzma",
+      "sha256": "5b01a4afd79d2627e3e13284944d8cc12e63fbd985a0825b2309c8c07efccaa5",
+      "bytes": 12246
+    },
+    {
+      "path": "sprites-feb1e0b51d02256421832c429054e62b86cb63598c8c8ea2a450448375ce0ee3.bmp.lzma",
+      "sha256": "49514807781c1d1b536326159d9e8c99cb4b62ea7431bc3e4781fc2fb7451032",
+      "bytes": 13491
+    },
+    {
+      "path": "sprites-3d49dd5fb647d06a42ad67ddcafe67692bdf8b0edc37a3fe1706b50a2ce72a7b.bmp.lzma",
+      "sha256": "f9f93aec542d199fe7ea417b21317b0c6ba929d9a0e2c92c7137619dc9f26a07",
+      "bytes": 12077
+    },
+    {
+      "path": "sprites-746c3ed62400bfc03db185f497a42b6c243582e3b8d4bcc26cf5d9bafd3ec28d.bmp.lzma",
+      "sha256": "80b50baf6c5922a0cc8873901672f6ef34cd93a2376d7ff5e4a36e4fa1e8be7d",
+      "bytes": 7656
+    },
+    {
+      "path": "sprites-b1725c197ba6107a8911e96349650ec32d7a55d193297e10f89e3538766d4754.bmp.lzma",
+      "sha256": "bd4468b8535ed7bc85975e08e52ec9cf7eb52471d9e207050b14dc50a5992fb6",
+      "bytes": 3996
+    },
+    {
+      "path": "sprites-23eedef7db411101e32e0f99bce8285638f5eff393330728743d8ccced2f6531.bmp.lzma",
+      "sha256": "611ea03e9653d687251fac5adf48f790f2bc24cf85b9ad48a10b91eee6b8bde2",
+      "bytes": 12724
+    },
+    {
+      "path": "sprites-9e3dce69f016094a0f6e6ac1418122b576d0446888c599ee9634f4ad979f22d8.bmp.lzma",
+      "sha256": "8641593a718ae0278665854e95f1b4dbe73316aaa7ed602fb4e3cac95a07b22e",
+      "bytes": 12558
+    },
+    {
+      "path": "sprites-4b85ff97a65cee84b9b9c4abb3f074f983c88a596940ec9a75a122124fbb2109.bmp.lzma",
+      "sha256": "e0ff226b25e80e5a613ccfecb740d335432b0a7dc6ea35f13f6982c337fdf2a3",
+      "bytes": 8047
+    },
+    {
+      "path": "sprites-c32e303186718c4b44f4de2c3b2a0877c570d620b74d43ee2ab6381f9816b316.bmp.lzma",
+      "sha256": "9d7dd6253762f245e47358a1eeba13220d3a386f4c0cc02004adac745100e9b2",
+      "bytes": 8943
+    },
+    {
+      "path": "sprites-bcfd29fccb139e140034d3794a2546517ee129d82136bf4ce801806d3e9d7c5a.bmp.lzma",
+      "sha256": "25bdd78e52c6dacc72064f4a2740ba9a9f156ee7619748682883815d54d7b052",
+      "bytes": 10916
+    },
+    {
+      "path": "sprites-9b3aba675d38d0f1e9c7d574b90ebc9349a26e330d2e127d7ed0ccfc11cab4e3.bmp.lzma",
+      "sha256": "9ba81cc739c2dd31dc268df6f1acdbff9d933819a23059d30081dbdb45350b9d",
+      "bytes": 13702
+    },
+    {
+      "path": "sprites-f1d548219ef1b8ecdf3bebf1354ebbe15d5b40aa2c737fe006e0c6628359e8b8.bmp.lzma",
+      "sha256": "4f0a5e4d0f1b346a75fd3098fb4734355d66b0575a080e8ce5c80356e03d00c8",
+      "bytes": 15428
+    },
+    {
+      "path": "sprites-a3f958648815848da942b093615c04045ec76ceaa261ba77f7db705ca3dc1fc0.bmp.lzma",
+      "sha256": "86765a78c9c8eb197166764918233a36cec38292a66837f61214cc05ee5cfec1",
+      "bytes": 10889
+    },
+    {
+      "path": "sprites-1e2c1a91ccae0f4148f08e9e01b600cf5613ed385b67792d26e7690f8132a844.bmp.lzma",
+      "sha256": "ec4a6aef4a2830a02233c8902dd59c75289ca73211c8d6de1e0bbd84c65afb23",
+      "bytes": 13705
+    },
+    {
+      "path": "sprites-a7cc110c1f24215a6b5d4e2397849c98fc0219ff6ca7c9ce304a5fe900c2d94a.bmp.lzma",
+      "sha256": "1b4ec501e840b94cf12bdd327ee5126ef918b80541715ade344123545635e217",
+      "bytes": 16120
+    },
+    {
+      "path": "sprites-806cc6d271fa326d79e46e75165c77936d1fb11dad92c88e373f5c555470b133.bmp.lzma",
+      "sha256": "8ba1529dc504353fa40f81b3768d0d3580417f952cf5535d212da3399cbf3439",
+      "bytes": 15471
+    },
+    {
+      "path": "sprites-1ed5527ff9e30ae4c749dc13fe84c578218b01aab80634a65ffe31b2b4907a2e.bmp.lzma",
+      "sha256": "21b3ac05c09314a9ebe3d89a31766142e91165bc4c8d30dcc71470b20ea3a102",
+      "bytes": 12999
+    },
+    {
+      "path": "sprites-1c7c42f136750d481b440afb98e6645d6b2157cdcb28e9a25a877bf95a5d59a0.bmp.lzma",
+      "sha256": "517c61e2332de2c65640d8b30ea6f860e79899d7578881fc4cd9c82a1243833c",
+      "bytes": 7997
+    },
+    {
+      "path": "sprites-77e2f5b6c6d1a86824cbf3d25782927c55dfe0fcb33089600c9a50e96fc7a43d.bmp.lzma",
+      "sha256": "5d4e17dc489d4566a1c3c5b49f9e2a498f475214d0167c508fe732a16c0a95c3",
+      "bytes": 9264
+    },
+    {
+      "path": "sprites-ee0e7be3192c380c4ac5596d8ae8a039bf224a56c70d27809407e5d797fe6699.bmp.lzma",
+      "sha256": "54335e46a7ea4573a9af8334d595b1600c7032275879de08aaddec98ebf778d7",
+      "bytes": 10140
+    },
+    {
+      "path": "sprites-dece9427313d8eb454ebd243eb7c38b14491744ef94c3b438cf4e379a4cbc83c.bmp.lzma",
+      "sha256": "afbeb153c9e11f63e67fb3e3f4d89c9613cd015f9327ec56d17c670286e5fe7d",
+      "bytes": 3955
+    },
+    {
+      "path": "sprites-58136ab1776a6f4fb328d4a4a6d76bc973d3b575d66b4c66768953ba117fa23c.bmp.lzma",
+      "sha256": "c41113843770feddcf74599d5ac9cbf2cbe2b1297636055df1c0e3b1450bea66",
+      "bytes": 10456
+    },
+    {
+      "path": "sprites-bcfc106221c108fb4fbcbfaab58d2a0370dbdf4d9993348c5a07ece17ffc2236.bmp.lzma",
+      "sha256": "db58a9e288c5c249137ca1a8b01dac1e8b943dc94f20502117a698268ee82a4e",
+      "bytes": 13357
+    },
+    {
+      "path": "sprites-b12f8083bdab74ffcd597a0f90be8323168a0ff3b9fd30f826b1a278dfb9816e.bmp.lzma",
+      "sha256": "2758a597f43397252faa70e91dd02759fc1d27fc33f2edba4bc039d989318d15",
+      "bytes": 8843
+    },
+    {
+      "path": "sprites-e43bcf1f3cb18884d50dd9f77726ee29eb521806f25b38e5cd204b8f9e290fb1.bmp.lzma",
+      "sha256": "0e57990b8f550bdb645f52ea0aa7c8e08be0ba4bf9d23f92c24fb7afec1c9226",
+      "bytes": 12897
+    },
+    {
+      "path": "sprites-b8e4d1b4a26a0222f2e2bab842d322cec6d584984a988a621f035a8a0edeaa78.bmp.lzma",
+      "sha256": "5831f7a63847405d571d1b4df9cebf0908194773e18a3e850b33957fbe24cdb5",
+      "bytes": 3770
+    },
+    {
+      "path": "sprites-e7b8e31f697069dff8babc7efe459fbed8bdfe615eccefab830f242cf382e2b2.bmp.lzma",
+      "sha256": "ee2a11719141865c7fdf0e38b3a3624075265ebd73aef71dedbe96b060efb496",
+      "bytes": 11241
+    },
+    {
+      "path": "sprites-36865fabcd617cf4621c0bc3b525cb66ff3f07006a78ee7a5676ba5c8010a60a.bmp.lzma",
+      "sha256": "781c18232cd87def7b5f5e43f42e6ed85461e989fcaf297410f27da6c1447cfe",
+      "bytes": 13650
+    },
+    {
+      "path": "sprites-841905f15f8bdacb1293184e202778628c6c8621a1f353380b77b64d6890a195.bmp.lzma",
+      "sha256": "d61aafbf3e56be4fb0e394046aa3ae3f26dc40b76f75db2ea7e799ba64c60419",
+      "bytes": 12842
+    }
+  ],
+  "targetDummyFollowup": {
+    "task": "AST-20261017-OUTFIT-REPLACEMENTS",
+    "sourceOutfit": 258,
+    "targetObject": 15710,
+    "originalBackupObject": 54267,
+    "frames": 1,
+    "identicalSourceDirections": 4,
+    "baseAppearance": "appearances-a42cab4e26b2c44e59eb71209b9992ddece0ee7743323478bd6d4ae9aaa6d981.dat",
+    "resultAppearance": "appearances-41fd5723fa55b61ddcd39868700411a8f79cbd12636fa7f9679b8c46647a13a3.dat",
+    "baseSha256": "a42cab4e26b2c44e59eb71209b9992ddece0ee7743323478bd6d4ae9aaa6d981",
+    "resultSha256": "41fd5723fa55b61ddcd39868700411a8f79cbd12636fa7f9679b8c46647a13a3",
+    "catalogSha256": "9922f06c2d4392f465d593da87f52c280b407c1b8cdbd429095a02118cab063e",
+    "sheet": {
+      "type": "sprite",
+      "file": "sprites-475bccb8418bf247b6788e06eab9089d0fe6a3f3d843e81b404ccd8826edc505.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 292984,
+      "lastspriteid": 293019,
+      "area": 0
+    },
+    "propertiesPreservedExceptVisualShift": true,
+    "allOtherRecordsByteIdentical": true,
+    "pixelRoundtrip": true,
+    "serverChangesRequired": false
+  }
+}
