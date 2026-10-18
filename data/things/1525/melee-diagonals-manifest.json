@@ -1,0 +1,283 @@
+{
+  "task": "XCOMP-20261017-MELEE-HIT-VISUAL",
+  "baseAppearance": "appearances-a25607d5d139161ebfefdc5b95bbc17ff3a72b4b5c506dd64896de77c5d29b75.dat",
+  "resultAppearance": "appearances-b4f73475634409c65e4c88387f68cc8893715676213d4e0feb121606ea95f645.dat",
+  "baseSha256": "a25607d5d139161ebfefdc5b95bbc17ff3a72b4b5c506dd64896de77c5d29b75",
+  "resultSha256": "b4f73475634409c65e4c88387f68cc8893715676213d4e0feb121606ea95f645",
+  "baseCatalogSha256": "66cb7301e97eab1cf9e6cccfc4a31c454d40e72a18ecd96586f2d1e0158ef62b",
+  "catalogSha256": "8882d96efce69a47fa09d70bf82ea2288f172887abbb6edcd977a6b132a7cd12",
+  "mapping": [
+    {
+      "category": 3,
+      "source": 71,
+      "target": 389,
+      "label": "melee diagonal northeast",
+      "originalBackupId": null,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 6,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ]
+        ]
+      },
+      "spriteIds": [
+        294064,
+        294065,
+        294066,
+        294067,
+        294068,
+        294069
+      ],
+      "direction": "northeast",
+      "sourceEditorBase": 87
+    },
+    {
+      "category": 3,
+      "source": 71,
+      "target": 390,
+      "label": "melee diagonal southeast",
+      "originalBackupId": null,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 6,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ]
+        ]
+      },
+      "spriteIds": [
+        294064,
+        294070,
+        294071,
+        294072,
+        294073,
+        294074
+      ],
+      "direction": "southeast",
+      "sourceEditorBase": 87
+    },
+    {
+      "category": 3,
+      "source": 71,
+      "target": 391,
+      "label": "melee diagonal southwest",
+      "originalBackupId": null,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 6,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ]
+        ]
+      },
+      "spriteIds": [
+        294064,
+        294075,
+        294076,
+        294077,
+        294078,
+        294079
+      ],
+      "direction": "southwest",
+      "sourceEditorBase": 87
+    },
+    {
+      "category": 3,
+      "source": 71,
+      "target": 392,
+      "label": "melee diagonal northwest",
+      "originalBackupId": null,
+      "attributes": [],
+      "sourceGroup": {
+        "group": 0,
+        "width": 2,
+        "height": 2,
+        "exact": 32,
+        "layers": 1,
+        "px": 1,
+        "py": 1,
+        "pz": 1,
+        "frames": 6,
+        "sync": 0,
+        "loops": 0,
+        "first": 0,
+        "durations": [
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ],
+          [
+            60,
+            60
+          ]
+        ]
+      },
+      "spriteIds": [
+        294064,
+        294080,
+        294081,
+        294082,
+        294083,
+        294084
+      ],
+      "direction": "northwest",
+      "sourceEditorBase": 87
+    }
+  ],
+  "sheets": [
+    {
+      "type": "sprite",
+      "file": "sprites-06a7b228f86066f7a86136b0f572a800c185005b42dabb2d29d6bb84545f31b8.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 294064,
+      "lastspriteid": 294099,
+      "area": 0,
+      "used": 21,
+      "sha256": "e998eefe1414bb791b5ac5891893d588c2e8b15f5a3f37b1ffee71c9bc094103",
+      "uncompressedSha256": "06a7b228f86066f7a86136b0f572a800c185005b42dabb2d29d6bb84545f31b8"
+    }
+  ],
+  "effectAnimation": "COUNTED once; original phase timings preserved",
+  "sourceHashes": {
+    "Tibia.dat": "b3c0914ec901a9e1028fbeee5732ab0d4d435eef34ea21f0286ccca411e83c68",
+    "Tibia.otfi": "7743548835944bc799cb871a4e5def84f7af76815031871b9ce74b5ec0e8add3",
+    "Tibia.spr": "f9666360154ebd059c609234b6a6a15a4bc0315528982e1203986c7a2a89069b"
+  },
+  "serverRoutingPending": {
+    "cardinalDirections": {
+      "north": 385,
+      "east": 386,
+      "south": 387,
+      "west": 388
+    },
+    "diagonalDirections": {
+      "northeast": 389,
+      "southeast": 390,
+      "southwest": 391,
+      "northwest": 392
+    },
+    "activation": "Assets approved; server must select one of eight runtime effects after confirmed melee HP damage"
+  },
+  "objectsAndOutfitsByteIdentical": true,
+  "unrelatedEffectsAndMissilesByteIdentical": true,
+  "pixelRoundtrip": true,
+  "status": "User visually approved; runtime package ready; server integration pending",
+  "diagonalMethod": "45 degree nearest-neighbor rotation from user-reduced editor87;no antialiasing;visible source bounds fit64x64",
+  "nativeSourceSha256": "5161d6c876265f558e7d4bf2405de5255e13bc3dd063121efb38615ef626015a"
+}

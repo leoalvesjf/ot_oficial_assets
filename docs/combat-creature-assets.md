@@ -20,7 +20,7 @@ This package preserves existing server IDs for visual replacements and includes 
 | Exori con dedicated impact | 384 | Elderan31;server routing/availability pending |
 | Melee north/east/south/west | 385 /386 /387 /388 | User-reduced editor87 derived from Elderan71;6x60ms |
 
-Directional effects are installed and available. All use a64x64 transparent canvas;east/west content64x32,north/south32x64,centered without interpolation. Server chooses ONE based on attacker/target delta at a confirmed successful melee hit;no automatic rotation or direction inferred by client. Four cardinal directions only;diagonal policy and anchors must be verified in gameplay. Preserve blood360/361 andcritical173;exclude spells,ranged,wands,misses,blocks,zero damage;do not duplicate on primary+secondary damage.364 is a club spell effect,not an attack direction. IDs88..91 remain editor-only.
+Directional runtime effects385..392 cover all eight directions, including diagonals389 northeast,390 southeast,391 southwest and392 northwest. See [the complete server/client contract](melee-eight-directions.md). The user approved the animation; server routing and gameplay validation remain pending.
 
 Projectile replacements:energy5/71 <- Elderan16;arrow3 <-17;SD32/69 <-22;bolt2 <-29;powerbolt14 <-31. Shared effect/projectile IDs change every producer that sends them,including other spells or NPC actions. In particular exori con is not mapped onto shared10,which would overwrite the exori visual.
 
