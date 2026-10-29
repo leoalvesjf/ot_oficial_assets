@@ -1,0 +1,63 @@
+{
+  "coordinationId": "SRV-20261029-BOW-IDENTITY-AMMO",
+  "sourceEffect": 85,
+  "protocolEffect": 393,
+  "sourceCategory": "effect",
+  "dimensions": [
+    64,
+    64
+  ],
+  "frames": 20,
+  "frameMs": 50,
+  "durationMs": 1000,
+  "sourceLight": {
+    "intensity": 4,
+    "color": 210
+  },
+  "loop": "COUNTED once",
+  "anchor": "target hit tile captured before second useWeapon; native displacement 0,0; no orientation variants",
+  "baseAppearance": "appearances-fa1f4e912e7c8a95526b8c9b38de49f2b4c656227e650f020e113b8d50451a0f.dat",
+  "baseSha256": "fa1f4e912e7c8a95526b8c9b38de49f2b4c656227e650f020e113b8d50451a0f",
+  "resultAppearance": "appearances-145d75506a9732e95bfabe89c048cf9910264668a1433c47e40a8f964b39dca5.dat",
+  "resultSha256": "145d75506a9732e95bfabe89c048cf9910264668a1433c47e40a8f964b39dca5",
+  "baseCatalogSha256": "e8d880eefbc8e645354f931f577e64126fdd2c1df249a56d5ebf59a69be1306e",
+  "catalogSha256": "6acac2cf190b4088778876ccd5fafcd2d1f3b3a7653d276dc07598e9c79c2cba",
+  "sheets": [
+    {
+      "type": "sprite",
+      "file": "sprites-b8fd5f8feaa5c2424932f82ed4fcd387f07225fdf17f22f85d191766d75702d9.bmp.lzma",
+      "spritetype": 3,
+      "firstspriteid": 294100,
+      "lastspriteid": 294135,
+      "area": 0,
+      "used": 13,
+      "sha256": "08a54ec096935df7877ebaf7adfda89717b128bc27a3d8c8d35f3a28f488a6e1",
+      "uncompressedSha256": "b8fd5f8feaa5c2424932f82ed4fcd387f07225fdf17f22f85d191766d75702d9"
+    }
+  ],
+  "spriteIds": [
+    294100,
+    294101,
+    294102,
+    294103,
+    294104,
+    294105,
+    294106,
+    294107,
+    294108,
+    294108,
+    294108,
+    294108,
+    294108,
+    294108,
+    294108,
+    294108,
+    294109,
+    294110,
+    294111,
+    294112
+  ],
+  "allExistingRecordsByteIdentical": true,
+  "allPixelsRoundtrip": true,
+  "referencesChecked": 300940
+}
